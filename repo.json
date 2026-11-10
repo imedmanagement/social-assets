@@ -1,0 +1,10 @@
+{
+ "repo": "imedmanagement/social-assets",
+ "note": "Brands allowed in this repo and their only accounts. Read by tools/validate-posts.mjs.",
+ "brands": {
+  "IMM": { "facebook": "106726314764969", "linkedin": "71330183", "instagram": "17841445514866994", "link_prefix": "https://imedmanagement.com.au/" },
+  "IMM Academy": { "facebook": "106726314764969", "linkedin": "144056031", "instagram": "17841445514866994", "link_prefix": "https://academy.imedmanagement.com.au/" }
+ },
+ "forbidden_terms": ["medicationevidence", "Medication Evidence"],
+ "offer_end": "2026-11-15"
+}

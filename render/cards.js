@@ -35,7 +35,7 @@
     const logo = await load(`${ASSETS}/imm/logo-white.png`);
     const cv = document.createElement('canvas'); cv.width = W; cv.height = H; const ctx = cv.getContext('2d');
     ctx.fillStyle = '#06152e'; ctx.fillRect(0, 0, W, H);
-    const img = await load(`${ASSETS}/imm/photos/${c.photo}`);
+    const img = await load(String(c.photo).startsWith('pexels:') ? photoUrl(c.photo) : `${ASSETS}/imm/photos/${c.photo}`);
     let dw, dh;
     if (c.size) { const pct = parseFloat(c.size.split(' ')[1]) / 100; dh = PH * pct; dw = img.naturalWidth * dh / img.naturalHeight; if (dw < W) { dw = W; dh = img.naturalHeight * W / img.naturalWidth; } }
     else { const s = Math.max(W / img.naturalWidth, PH / img.naturalHeight); dw = img.naturalWidth * s; dh = img.naturalHeight * s; }

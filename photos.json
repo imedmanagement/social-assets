@@ -3,10 +3,8 @@
  "source": "pexels.com (free to use)",
  "tags": {
   "claims": [
-   "7736040",
    "7735634",
    "30893737",
-   "7731397",
    "7731333"
   ],
   "prescribing": [
@@ -20,8 +18,7 @@
    "8657293",
    "8667958",
    "15114245",
-   "14797860",
-   "39714942"
+   "14797860"
   ],
   "pills": [
    "3873141",
@@ -38,10 +35,8 @@
    "9669807"
   ],
   "pain": [
-   "7298685",
    "17553844",
    "5155762",
-   "6513297",
    "4506113"
   ],
   "documents": [
@@ -66,10 +61,8 @@
    "4545238"
   ],
   "mood": [
-   "8458964",
    "4506242",
    "8560717",
-   "8459014",
    "4584084"
   ],
   "cannabis": [
@@ -104,7 +97,6 @@
    "4487446",
    "4487450",
    "12357627",
-   "12069494",
    "4487418"
   ]
  },
@@ -118,5 +110,6 @@
  ],
  "academy_photos": [
   "academy-team.jpg"
- ]
+ ],
+ "sensitive_topics_rule": "For sexual health, mental health, addiction or self-image topics use objects, hands or people seen from behind, never an identifiable face."
 }

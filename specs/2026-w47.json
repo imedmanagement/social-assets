@@ -1,0 +1,157 @@
+{
+ "week": "Mon 16 to Thu 19 November 2026 (first auto-generated batch)",
+ "jobs": [
+  {
+   "id": "2026-11-17-imm-rtpm-monitoring",
+   "date": "2026-11-17",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:8296982",
+    "pos": "50% 50%",
+    "eyebrow": "Medication monitoring · RTPM",
+    "headline": "A review is a snapshot. *Monitoring is live.*",
+    "sub": "See when a medicine is started, increased, switched or stacked, before harm develops.",
+    "stat": [
+     "Real time",
+     "prescribing and dispensing visibility on active claims"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-18-imm-aps-pharmacists-pain",
+   "date": "2026-11-18",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:14797860",
+    "pos": "50% 40%",
+    "eyebrow": "Australian Pain Society · 2026",
+    "headline": "Pharmacists are part of the *pain safety system.*",
+    "sub": "The APS's first position statement on pharmacists in pain management, and what it means for complex claims.",
+    "stat": [
+     "5+",
+     "medicines: the polypharmacy threshold the statement highlights"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-19-imm-mounjaro",
+   "date": "2026-11-19",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:5998466",
+    "pos": "50% 40%",
+    "eyebrow": "Mounjaro · tirzepatide",
+    "headline": "TGA-approved, *not PBS-listed.*",
+    "sub": "Clear criteria for causation, cost and clinical necessity when Mounjaro appears on a claim.",
+    "stat": [
+     "3",
+     "TGA-approved indications to check every invoice against"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-16-academy-pharmacist-course",
+   "date": "2026-11-16",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8657293",
+    "fy": 0.45,
+    "ribbon": "For registered pharmacists",
+    "eyebrow": "Medication Review in Personal Injury Schemes",
+    "headline": "The scheme training *pharmacists have never had.*",
+    "sub": "Turn an insurer's referral into an independent, defensible medication review that prescribers act on.",
+    "chips": [
+     "8 hours",
+     "6 modules",
+     "$1,100"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Built for pharmacists, self-paced",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-17-academy-team-licences",
+   "date": "2026-11-17",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:18999485",
+    "fy": 0.5,
+    "eyebrow": "For claims and injury management teams",
+    "headline": "Train the whole team, *not just one person.*",
+    "sub": "Team, organisation and enterprise licences, with manager dashboards and audit-ready completion reports.",
+    "chips": [
+     "10 to 49: $495",
+     "50 to 199: $440",
+     "200+: from $350"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Team and organisation licences",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-18-academy-cannabis-briefing",
+   "date": "2026-11-18",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8336373",
+    "fy": 0.5,
+    "eyebrow": "30-minute treatment briefing",
+    "headline": "Medicinal cannabis is routine. *The evidence isn't.*",
+    "sub": "Almost every product is unapproved, and THC drives most of the risk. Five levers insurers can use to manage it.",
+    "chips": [
+     "30 minutes",
+     "ANZIIF CIP 0.5 pts",
+     "$150"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "30 minutes, 0.5 ANZIIF CIP points",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-19-academy-intervention-window",
+   "date": "2026-11-19",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:7735634",
+    "fy": 0.5,
+    "eyebrow": "Medication Risk in Personal Injury Claims",
+    "headline": "Weeks 4 to 12: *the window to act.*",
+    "sub": "After week 12, regimens get complex. Learn what to notice, what to ask and when to escalate.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "8 hours, 8 ANZIIF CIP points",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  }
+ ]
+}
