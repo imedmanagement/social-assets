@@ -70,5 +70,54 @@
     "instagram": "imedmanagement",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-imm-low-back-pain.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-imm-low-back-pain.jpg"
+  },
+  {
+    "id": "2026-11-17-imm-rtpm-monitoring",
+    "date": "2026-11-17",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-imm-rtpm-monitoring.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-imm-rtpm-monitoring.jpg"
+  },
+  {
+    "id": "2026-11-18-imm-aps-pharmacists-pain",
+    "date": "2026-11-18",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-imm-aps-pharmacists-pain.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-imm-aps-pharmacists-pain.jpg"
+  },
+  {
+    "id": "2026-11-19-imm-mounjaro",
+    "date": "2026-11-19",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-imm-mounjaro.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-imm-mounjaro.jpg"
+  },
+  {
+    "id": "2026-11-16-academy-pharmacist-course",
+    "date": "2026-11-16",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-academy-pharmacist-course.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-academy-pharmacist-course.jpg"
+  },
+  {
+    "id": "2026-11-17-academy-team-licences",
+    "date": "2026-11-17",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-academy-team-licences.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-academy-team-licences.jpg"
+  },
+  {
+    "id": "2026-11-18-academy-cannabis-briefing",
+    "date": "2026-11-18",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-academy-cannabis-briefing.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-academy-cannabis-briefing.jpg"
+  },
+  {
+    "id": "2026-11-19-academy-intervention-window",
+    "date": "2026-11-19",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-academy-intervention-window.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-academy-intervention-window.jpg"
   }
 ]
