@@ -1,0 +1,50 @@
+{
+  "week": "Wed 11 to Mon 16 November 2026",
+  "jobs": [
+    {
+      "id": "2026-11-11-imm-new-condition", "date": "2026-11-11", "brand": "imm", "instagram": "imedmanagement",
+      "card": { "photo": "pills.jpg", "pos": "70% 50%", "eyebrow": "Medication risk", "headline": "New condition, or a *predictable side effect?*", "sub": "Check the medication timeline before a new diagnosis goes on the file.", "stat": ["5 questions", "to ask before treating a new symptom"] },
+      "story": { "eyebrow": "New insight", "line": "Read the full article on our website", "line2": "imedmanagement.com.au/insights" }
+    },
+    {
+      "id": "2026-11-11-academy-claims", "date": "2026-11-11", "brand": "academy", "instagram": "imedmanagement",
+      "card": { "photo": "academy-team.jpg", "fy": 0.4, "ribbon": "50% off · code LAUNCH50 · ends Sun 15 Nov", "eyebrow": "For case managers & claims officers", "headline": "Is it the medication, *or the condition?*", "sub": "Medication Risk in Personal Injury Claims: see medication on the file and act before a secondary condition is accepted.", "chips": ["8 hours", "ANZIIF CIP 8 pts", ["", "$550", "$275"]] },
+      "story": { "eyebrow": "IMM Academy · launch offer", "line": "50% off with code LAUNCH50", "line2": "academy.imedmanagement.com.au · ends Sun 15 Nov" }
+    },
+    {
+      "id": "2026-11-12-imm-opioids-90-days", "date": "2026-11-12", "brand": "imm", "instagram": "imedmanagement",
+      "card": { "photo": "white-tablets.jpg", "pos": "65% 50%", "eyebrow": "Opioids · first 90 days", "headline": "The first 90 days *decide the next 12 months.*", "sub": "Early high-risk prescribing roughly doubled the odds of persistent opioid use at one year.", "stat": ["2 in 3", "injured workers met a high-risk indicator within 90 days"] },
+      "story": { "eyebrow": "New insight", "line": "Read the full article on our website", "line2": "imedmanagement.com.au/insights" }
+    },
+    {
+      "id": "2026-11-12-academy-rtw", "date": "2026-11-12", "brand": "academy", "instagram": "imedmanagement",
+      "card": { "photo": "pexels:17719765", "fy": 0.35, "ribbon": "50% off · code LAUNCH50 · ends Sun 15 Nov", "eyebrow": "For WHS, rehab & RTW teams", "headline": "Medication is the *missing variable* in return to work.", "sub": "Medication Risk in Return to Work: build medication into fitness for work decisions, safely and lawfully.", "chips": ["8 hours", "ANZIIF CIP 8 pts", ["", "$550", "$275"]] },
+      "story": { "eyebrow": "IMM Academy · launch offer", "line": "50% off with code LAUNCH50", "line2": "academy.imedmanagement.com.au · ends Sun 15 Nov" }
+    },
+    {
+      "id": "2026-11-13-imm-secondary-psych", "date": "2026-11-13", "brand": "imm", "instagram": "imedmanagement",
+      "card": { "photo": "coffee-meeting.jpg", "pos": "50% 30%", "eyebrow": "Secondary psychological injury", "headline": "Psychiatric injury, or *pharmacological?*", "sub": "Drug-induced mood change tracks the dose and lifts on reduction.", "stat": ["38%", "of NSW workers compensation cost comes from 12% of claims"] },
+      "story": { "eyebrow": "New insight", "line": "Read the full article on our website", "line2": "imedmanagement.com.au/insights" }
+    },
+    {
+      "id": "2026-11-13-academy-briefings", "date": "2026-11-13", "brand": "academy", "instagram": "imedmanagement",
+      "card": { "photo": "pexels:40557468", "fy": 0.5, "ribbon": "50% off · code LAUNCH50 · ends Sun 15 Nov", "eyebrow": "30-minute treatment briefings", "headline": "Funded, but *not understood.*", "sub": "Medicinal cannabis. MDMA and psilocybin. Esketamine and ketamine. What injury management teams need to know.", "chips": ["30 min each", "CIP 0.5 pts", ["", "$150", "$75"]] },
+      "story": { "eyebrow": "IMM Academy · launch offer", "line": "50% off with code LAUNCH50", "line2": "academy.imedmanagement.com.au · ends Sun 15 Nov" }
+    },
+    {
+      "id": "2026-11-14-imm-thc-sleep", "date": "2026-11-14", "brand": "imm", "instagram": "imedmanagement",
+      "card": { "photo": "arm-with-pills.jpg", "pos": "50% 35%", "eyebrow": "Medicinal cannabis · sleep", "headline": "Sedation is not *restorative sleep.*", "sub": "“I sleep better on it” can’t carry a reasonably necessary decision on its own.", "stat": ["21%", "more wake after sleep onset in chronic users"] },
+      "story": { "eyebrow": "New insight", "line": "Read the full article on our website", "line2": "imedmanagement.com.au/insights" }
+    },
+    {
+      "id": "2026-11-14-academy-final", "date": "2026-11-14", "brand": "academy", "instagram": "imedmanagement",
+      "card": { "photo": "pexels:37476297", "fy": 0.4, "ribbon": "Last chance · code LAUNCH50", "eyebrow": "Earn ANZIIF CIP points while you learn", "headline": "Half price *ends tomorrow.*", "sub": "Two 8-hour courses and three 30-minute briefings for injury management teams. Self-paced, with a certificate.", "chips": [["Courses", "$550", "$275"], ["Briefings", "$150", "$75"]] },
+      "story": { "eyebrow": "IMM Academy · last chance", "line": "Code LAUNCH50 ends Sunday", "line2": "academy.imedmanagement.com.au" }
+    },
+    {
+      "id": "2026-11-16-imm-low-back-pain", "date": "2026-11-16", "brand": "imm", "instagram": "imedmanagement",
+      "card": { "photo": "hand-with-pills.jpg", "size": "auto 165%", "pos": "62% 82%", "eyebrow": "Low back pain · ACI/SIRA model", "headline": "2, 6 and 12 weeks. *Is the script keeping up?*", "sub": "The model asks the treating team to consider weaning at every review.", "stat": ["3 classes", "to avoid for low back pain: anticonvulsants, benzodiazepines, antidepressants"] },
+      "story": { "eyebrow": "New insight", "line": "Read the full article on our website", "line2": "imedmanagement.com.au/insights" }
+    }
+  ]
+}
