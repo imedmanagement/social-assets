@@ -27,6 +27,9 @@
   function rr(ctx, x, y, w, h, r) { ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r); ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath(); }
   function cover(ctx, img, x, y, w, h, fx = 0.5, fy = 0.5) { const s = Math.max(w / img.naturalWidth, h / img.naturalHeight); const sw = w / s, sh = h / s; ctx.drawImage(img, (img.naturalWidth - sw) * fx, (img.naturalHeight - sh) * fy, sw, sh, x, y, w, h); }
   const toBlob = (cv) => new Promise((r) => cv.toBlob(r, 'image/jpeg', 0.92));
+  // Layout guard: every box must hold its text and nothing may pass the card edges. Problems fail the render.
+  let PROBLEMS = [];
+  const check = (ok, msg) => { if (!ok) PROBLEMS.push(msg); };
 
   // IMM: full-bleed greyscale photo with navy tint, lighter at the top, solid navy lower half, stat panel, navy footer.
   async function imm(c) {
@@ -48,22 +51,40 @@
     const g = ctx.createLinearGradient(0, 0, 0, PH);
     [[0, 0], [0.24, 0.06], [0.38, 0.42], [0.49, 0.78], [0.57, 0.95], [0.63, 1], [1, 1]].forEach(([o, a]) => g.addColorStop(o, `rgba(10,31,68,${a})`));
     ctx.fillStyle = g; ctx.fillRect(0, 0, W, PH); ctx.restore();
+    let panelBottom = 0;
     if (c.stat) {
-      ctx.font = '500 24px BrandSans'; const lab = wrap(ctx, c.stat[1], 366);
-      ctx.font = '400 84px BrandSerif'; const bigW = ctx.measureText(c.stat[0]).width;
-      ctx.font = '500 24px BrandSans'; const labW = Math.max(...lab.map((l) => ctx.measureText(l).width));
-      const bw = Math.min(430, Math.max(bigW, labW) + 64), bh = 26 + 80 + 10 + lab.length * 31 + 24;
+      // The panel always grows to fit its text; the big figure shrinks only if it would pass the card's side margin.
+      const INNER_MAX = W - PAD * 2 - 64;
+      let bs = 84; ctx.font = `400 ${bs}px BrandSerif`;
+      while (ctx.measureText(c.stat[0]).width > INNER_MAX && bs > 48) { bs -= 2; ctx.font = `400 ${bs}px BrandSerif`; }
+      const bigW = ctx.measureText(c.stat[0]).width;
+      ctx.font = '500 24px BrandSans'; let labMax = Math.min(INNER_MAX, Math.max(366, bigW)), lab = wrap(ctx, c.stat[1], labMax);
+      while (lab.length > 3 && labMax < INNER_MAX) { labMax = Math.min(INNER_MAX, labMax + 40); lab = wrap(ctx, c.stat[1], labMax); }
+      const labW = Math.max(...lab.map((l) => ctx.measureText(l).width));
+      const bw = Math.max(bigW, labW) + 64, bigH = Math.round(bs * 0.95), bh = 26 + bigH + 10 + lab.length * 31 + 24;
+      check(bigW <= INNER_MAX && labW <= INNER_MAX, `stat panel text wider than the card ("${c.stat[0]}")`);
+      check(lab.length <= 3, 'stat label longer than 3 lines');
       rr(ctx, PAD, 88, bw, bh, 18); ctx.fillStyle = 'rgba(6,21,46,0.78)'; ctx.fill(); ctx.strokeStyle = 'rgba(197,206,228,0.35)'; ctx.lineWidth = 1; ctx.stroke();
-      ctx.fillStyle = '#ffffff'; ctx.font = '400 84px BrandSerif'; ctx.fillText(c.stat[0], PAD + 32, 88 + 26 + 66);
-      ctx.fillStyle = '#dbe3f3'; ctx.font = '500 24px BrandSans'; lab.forEach((l, i) => ctx.fillText(l, PAD + 32, 88 + 26 + 80 + 10 + 22 + i * 31));
+      ctx.fillStyle = '#ffffff'; ctx.font = `400 ${bs}px BrandSerif`; ctx.fillText(c.stat[0], PAD + 32, 88 + 26 + Math.round(bs * 0.79));
+      ctx.fillStyle = '#dbe3f3'; ctx.font = '500 24px BrandSans'; lab.forEach((l, i) => ctx.fillText(l, PAD + 32, 88 + 26 + bigH + 10 + 22 + i * 31));
+      panelBottom = 88 + bh;
     }
-    const hs = c.hs || 88, lh = hs * 1.04;
-    const head = rich(ctx, c.headline, hs, W - PAD * 2);
     ctx.font = '400 31px BrandSans'; const sub = c.sub ? wrap(ctx, c.sub, 880) : [];
     const subH = sub.length ? 30 + sub.length * 31 * 1.42 : 0;
-    let y = H - 236 - (29 + 34 + head.lines.length * lh + subH);
+    // Headline shrinks (down to 64px) rather than run into the stat panel or past 3 lines.
+    let hs = c.hs || 88, lh, head, y;
+    for (;;) {
+      lh = hs * 1.04; head = rich(ctx, c.headline, hs, W - PAD * 2);
+      y = H - 236 - (29 + 34 + head.lines.length * lh + subH);
+      if ((head.lines.length <= 3 && y >= panelBottom + 40) || hs <= 64) break;
+      hs -= 4;
+    }
+    check(head.lines.length <= 3, 'headline longer than 3 lines');
+    check(y >= panelBottom + 40, 'headline and subline run into the stat panel');
+    check(sub.length <= 3, 'subline longer than 3 lines');
+    check(head.lines.every((l) => l.reduce((s, t) => s + t.ww, 0) + (l.length - 1) * head.sp <= W - PAD * 2 + 1), 'a headline line is wider than the card');
     ctx.fillStyle = '#8fa8de'; ctx.fillRect(PAD, y + 13, 56, 3);
-    ctx.fillStyle = '#dbe3f3'; ctx.font = '700 24px BrandSans'; ctx.letterSpacing = '4px'; ctx.fillText(c.eyebrow.toUpperCase(), PAD + 76, y + 23); ctx.letterSpacing = '0px';
+    ctx.fillStyle = '#dbe3f3'; ctx.font = '700 24px BrandSans'; ctx.letterSpacing = '4px'; check(ctx.measureText(c.eyebrow.toUpperCase()).width <= W - PAD * 2 - 76, 'eyebrow wider than the card'); ctx.fillText(c.eyebrow.toUpperCase(), PAD + 76, y + 23); ctx.letterSpacing = '0px';
     y += 29 + 34;
     head.lines.forEach((line, i) => { let x = PAD; line.forEach((t) => { ctx.font = `${t.it ? 'italic ' : ''}400 ${hs}px BrandSerif`; ctx.fillStyle = t.it ? '#c5cee4' : '#ffffff'; ctx.fillText(t.w, x, y + i * lh + hs * 0.8); x += t.ww + head.sp; }); });
     y += head.lines.length * lh;
@@ -84,20 +105,25 @@
     let y = 80;
     if (c.ribbon) {
       ctx.font = '700 22px BrandSans'; ctx.letterSpacing = '3px'; const tw = ctx.measureText(c.ribbon.toUpperCase()).width;
+      check(tw + 56 <= W - PAD * 2, 'ribbon wider than the card');
       rr(ctx, PAD, y, tw + 56, 56, 28); ctx.fillStyle = NAVY; ctx.fill();
       ctx.fillStyle = '#ffffff'; ctx.fillText(c.ribbon.toUpperCase(), PAD + 28, y + 36); ctx.letterSpacing = '0px';
       y += 56 + 48;
     }
     ctx.fillStyle = BLUE; ctx.fillRect(PAD, y + 9, 56, 3);
-    ctx.font = '700 24px BrandSans'; ctx.letterSpacing = '4px'; ctx.fillText(c.eyebrow.toUpperCase(), PAD + 76, y + 19); ctx.letterSpacing = '0px';
+    ctx.font = '700 24px BrandSans'; ctx.letterSpacing = '4px'; check(ctx.measureText(c.eyebrow.toUpperCase()).width <= W - PAD * 2 - 76, 'eyebrow wider than the card'); ctx.fillText(c.eyebrow.toUpperCase(), PAD + 76, y + 19); ctx.letterSpacing = '0px';
     y += 24 + 40;
     let hs = c.hs || 78; let head = rich(ctx, c.headline, hs, W - PAD * 2);
     while (head.lines.length > 3 && hs > 56) { hs -= 2; head = rich(ctx, c.headline, hs, W - PAD * 2); }
+    check(head.lines.length <= 3, 'headline longer than 3 lines');
+    check(head.lines.every((l) => l.reduce((s2, t) => s2 + t.ww, 0) + (l.length - 1) * head.sp <= W - PAD * 2 + 1), 'a headline line is wider than the card');
     head.lines.forEach((line, i) => { let x = PAD; line.forEach((t) => { ctx.font = `${t.it ? 'italic ' : ''}400 ${hs}px BrandSerif`; ctx.fillStyle = t.it ? BLUE : NAVY; ctx.fillText(t.w, x, y + i * hs * 1.04 + hs * 0.8); x += t.ww + head.sp; }); });
     y += head.lines.length * hs * 1.04 + 26;
     ctx.font = '400 30px BrandSans'; ctx.fillStyle = '#3A4A63'; const sub = wrap(ctx, c.sub, W - PAD * 2);
     sub.forEach((l, i) => ctx.fillText(l, PAD, y + 30 + i * 30 * 1.42)); y += sub.length * 30 * 1.42 + 44;
+    check(sub.length <= 3, 'subline longer than 3 lines');
     const chipY = H - FOOT - 64 - 56, photoBottom = chipY - 40, ph = Math.max(300, photoBottom - y);
+    check(photoBottom - y >= 300, 'text is too long: the photo would overlap it');
     const img = await load(c.photo.startsWith('pexels:') ? photoUrl(c.photo) : `${ASSETS}/academy/${c.photo}`);
     ctx.save(); rr(ctx, PAD, photoBottom - ph, W - PAD * 2, ph, 28); ctx.clip(); cover(ctx, img, PAD, photoBottom - ph, W - PAD * 2, ph, c.fx ?? 0.5, c.fy ?? 0.5); ctx.restore();
     let x = PAD;
@@ -116,6 +142,7 @@
         ctx.fillStyle = NAVY; ctx.fillText(ch, x + 24, chipY + 42); x += w + 14;
       }
     }
+    check(x - 14 <= W - PAD, 'chips run past the right edge');
     ctx.fillStyle = NAVY; ctx.fillRect(0, H - FOOT, W, FOOT);
     const lh = 78, lw = logo.naturalWidth * lh / logo.naturalHeight; ctx.drawImage(logo, PAD - 10, H - FOOT / 2 - lh / 2, lw, lh);
     ctx.fillStyle = '#ffffff'; ctx.font = '700 22px BrandSans'; ctx.letterSpacing = '6px'; ctx.fillText('ACADEMY', 256, H - FOOT / 2 + 9); ctx.letterSpacing = '0px';
@@ -138,16 +165,19 @@
     ctx.fillStyle = p.sub; ctx.font = '700 26px BrandSans'; ctx.letterSpacing = '6px'; ctx.fillText(o.eyebrow.toUpperCase(), W / 2, 225); ctx.letterSpacing = '0px';
     ctx.save(); ctx.shadowColor = p.shadow; ctx.shadowBlur = 44; ctx.shadowOffsetY = 16; rr(ctx, x, y, cw, ch, r); ctx.fillStyle = p.bg2; ctx.fill(); ctx.restore();
     ctx.save(); rr(ctx, x, y, cw, ch, r); ctx.clip(); ctx.drawImage(img, x, y, cw, ch); ctx.restore();
-    ctx.fillStyle = p.fg; ctx.font = '600 36px BrandSans'; ctx.fillText(o.line, W / 2, y + ch + 96);
-    if (o.line2) { ctx.fillStyle = p.sub; ctx.font = '500 29px BrandSans'; ctx.fillText(o.line2, W / 2, y + ch + 148); }
+    ctx.fillStyle = p.fg; ctx.font = '600 36px BrandSans'; check(ctx.measureText(o.line).width <= W - 140, 'story line too wide'); ctx.fillText(o.line, W / 2, y + ch + 96);
+    if (o.line2) { ctx.fillStyle = p.sub; ctx.font = '500 29px BrandSans'; check(ctx.measureText(o.line2).width <= W - 140, 'story second line too wide'); ctx.fillText(o.line2, W / 2, y + ch + 148); }
+    ctx.font = '700 26px BrandSans'; ctx.letterSpacing = '6px'; check(ctx.measureText(o.eyebrow.toUpperCase()).width <= W - 140, 'story eyebrow too wide'); ctx.letterSpacing = '0px';
     ctx.textAlign = 'left';
     return toBlob(cv);
   }
 
   const b64 = async (blob) => { const u8 = new Uint8Array(await blob.arrayBuffer()); let s = ''; for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000)); return btoa(s); };
   window.renderJob = async (job) => {
+    PROBLEMS = [];
     const card = job.brand === 'imm' ? await imm(job.card) : await academy(job.card);
     const st = job.story ? await story(card, job.brand, job.story) : null;
+    if (PROBLEMS.length) throw new Error('layout: ' + PROBLEMS.join('; '));
     return { card: await b64(card), story: st ? await b64(st) : null };
   };
 })();

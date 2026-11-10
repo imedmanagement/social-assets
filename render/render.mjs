@@ -33,7 +33,7 @@ const jobs = fs.readdirSync(path.join(ROOT, 'specs')).filter((f) => f.endsWith('
 fs.mkdirSync(path.join(ROOT, 'cards'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'stories'), { recursive: true });
 
-let failed = 0;
+let failed = 0; const failures = [];
 for (const job of jobs) {
   if (ONLY && !ONLY.includes(job.id)) continue;
   const cardFile = path.join(ROOT, 'cards', `${job.id}.jpg`), storyFile = path.join(ROOT, 'stories', `${job.id}.jpg`);
@@ -44,7 +44,7 @@ for (const job of jobs) {
     if (out.story) fs.writeFileSync(storyFile, Buffer.from(out.story, 'base64'));
     console.log('ok  ', job.id);
   } catch (e) {
-    failed++; console.log('FAIL', job.id, String(e).split('\n')[0]);
+    failed++; const msg = String(e).split('\n')[0].replace(/^Error: /, ''); failures.push(`${job.id}: ${msg}`); console.log('FAIL', job.id, msg);
   }
 }
 
@@ -56,6 +56,7 @@ const manifest = jobs.filter((j) => fs.existsSync(path.join(ROOT, 'cards', `${j.
 }));
 fs.writeFileSync(path.join(ROOT, 'stories', 'index.json'), JSON.stringify(manifest, null, 2) + '\n');
 
+if (failures.length) fs.writeFileSync(path.join(ROOT, 'stories', 'render-errors.txt'), failures.join('\n') + '\n'); else if (fs.existsSync(path.join(ROOT, 'stories', 'render-errors.txt'))) fs.unlinkSync(path.join(ROOT, 'stories', 'render-errors.txt'));
 await browser.close(); server.close();
 console.log(`${jobs.length} jobs, ${failed} failed`);
 if (failed && process.env.CI) process.exit(1);
