@@ -3,7 +3,7 @@ name: Render social images
 on:
   push:
     branches: [main]
-    paths: ['specs/**', 'render/**', 'assets/**', '.github/workflows/render.yml']
+    paths: ['specs/**', 'render/**', 'assets/**', 'photos.json', 'tools/contact.mjs', '.github/workflows/render.yml']
   workflow_dispatch:
     inputs:
       force:
@@ -31,11 +31,16 @@ jobs:
         env:
           CI: 'true'
           FORCE: ${{ github.event.inputs.force || '0' }}
+      - name: Contact sheet of the photo library
+        if: hashFiles('photos.json') != ''
+        run: node tools/contact.mjs
+        env:
+          CI: 'true'
       - name: Commit rendered images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add cards stories
+          git add cards stories review
           if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
           git commit -m "Render social images"
           git pull --rebase origin main
