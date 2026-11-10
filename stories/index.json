@@ -24,6 +24,14 @@
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-imm-opioids-90-days.jpg"
   },
   {
+    "id": "2026-11-12-academy-rtw",
+    "date": "2026-11-12",
+    "brand": "academy",
+    "instagram": "imedmanagement",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-12-academy-rtw.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-academy-rtw.jpg"
+  },
+  {
     "id": "2026-11-13-imm-secondary-psych",
     "date": "2026-11-13",
     "brand": "imm",
@@ -32,12 +40,28 @@
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-imm-secondary-psych.jpg"
   },
   {
+    "id": "2026-11-13-academy-briefings",
+    "date": "2026-11-13",
+    "brand": "academy",
+    "instagram": "imedmanagement",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-13-academy-briefings.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-academy-briefings.jpg"
+  },
+  {
     "id": "2026-11-14-imm-thc-sleep",
     "date": "2026-11-14",
     "brand": "imm",
     "instagram": "imedmanagement",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-imm-thc-sleep.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-imm-thc-sleep.jpg"
+  },
+  {
+    "id": "2026-11-14-academy-final",
+    "date": "2026-11-14",
+    "brand": "academy",
+    "instagram": "imedmanagement",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-academy-final.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-academy-final.jpg"
   },
   {
     "id": "2026-11-16-imm-low-back-pain",
