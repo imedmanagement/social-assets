@@ -152,6 +152,49 @@
     "line": "8 hours, 8 ANZIIF CIP points",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-11-20-imm-prescribing-cascades",
+   "date": "2026-11-20",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:5407207",
+    "pos": "50% 50%",
+    "eyebrow": "Prescribing cascades",
+    "headline": "How one medication *becomes four.*",
+    "sub": "When a side effect is treated as a new condition, the original cause is never addressed.",
+    "stat": [
+     "190,000+",
+     "hospital admissions a year involve adverse medicine events"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-20-academy-esketamine-ketamine",
+   "date": "2026-11-20",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8376190",
+    "fy": 0.5,
+    "eyebrow": "30-minute treatment briefing",
+    "headline": "Esketamine and ketamine are *not the same treatment.*",
+    "sub": "One is approved with a strict protocol. The other is off-label, with a much weaker evidence base.",
+    "chips": [
+     "30 minutes",
+     "ANZIIF CIP 0.5 pts",
+     "$150"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Two treatments, two separate requests",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
