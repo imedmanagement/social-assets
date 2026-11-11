@@ -119,5 +119,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-academy-intervention-window.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-academy-intervention-window.jpg"
+  },
+  {
+    "id": "2026-11-20-imm-prescribing-cascades",
+    "date": "2026-11-20",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-imm-prescribing-cascades.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-imm-prescribing-cascades.jpg"
+  },
+  {
+    "id": "2026-11-20-academy-esketamine-ketamine",
+    "date": "2026-11-20",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-academy-esketamine-ketamine.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-academy-esketamine-ketamine.jpg"
   }
 ]
