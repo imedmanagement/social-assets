@@ -1,395 +1,439 @@
 {
- "note": "Scheduled social posts, read by the 6:35am daily posting run. Each entry posts once, on its date (Australia/Brisbane).",
- "posts": [
-  {
-   "date": "2026-11-11",
-   "post": "A1",
-   "brand": "IMM Academy",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-11-academy-claims.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-11-academy-claims.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Case managers: is it the medication, or the condition?\n\nOur 8-hour, self-paced course Medication Risk in Personal Injury Claims teaches you to see medication on the file and act before a secondary condition is accepted. 8 ANZIIF CIP points.\n\nThe launch offer ends Sunday 15 November: 50% off with code LAUNCH50 ($550, now $275). Course link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Is it the medication, or the condition?\n\nIt's the question that decides whether a secondary condition gets accepted, and most claims teams have never been trained to answer it.\n\nMedication Risk in Personal Injury Claims is an 8-hour, self-paced course for injury management advisors, case managers and claims officers:\n1. The medication problem in the scheme\n2. Identifying high-risk medications\n3. Spotting adverse effects on the file\n4. Medication or condition? Characterising the concern\n5. Getting the right information\n6. Taking action\nPlus a capstone case plan and final exam. 8 ANZIIF CIP points.\n\nFinal week of the launch offer: 50% off with code LAUNCH50 until Sunday 15 November. $550, now $275.\n\nCourse link in the first comment.\n\n#InjuryManagement #WorkersCompensation #CaseManagement #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Case managers: is it the medication, or the condition?\n\nOur 8-hour, self-paced course Medication Risk in Personal Injury Claims teaches you to see medication on the file and act before a secondary condition is accepted. 8 ANZIIF CIP points.\n\nThe launch offer ends Sunday 15 November: 50% off with code LAUNCH50 ($550, now $275). Course link in the first comment.\n\n#InjuryManagement #WorkersCompensation #CaseManagement #ANZIIF"
-   },
-   "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-claims",
-   "source": "academy:medication-risk-claims"
-  },
-  {
-   "date": "2026-11-11",
-   "post": "IMM2",
-   "brand": "IMM",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-11-imm-new-condition.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-11-imm-new-condition.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "New condition, or a side effect of a medicine the worker is already taking?\n\nLow mood, brain fog, falls, reflux, insomnia, constipation and weight gain are common on injury claims. They're also well-known effects of medicines often funded on those claims. If the symptom started soon after a medicine was started, increased or stopped, check the medication before accepting a new diagnosis.\n\nFive questions to ask first: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "A new symptom on a long-running claim is usually treated as a new problem. Sometimes it's the predictable effect of a medicine the worker is already taking.\n\nWhen an adverse drug reaction is mistaken for a new condition and a second medicine is added to treat it, that's a prescribing cascade (Australian Prescriber, 2011). On a claim it also creates a documented condition, funded treatment, a possible secondary condition claim and a certificate that no longer matches the original injury.\n\nTiming does most of the work. If the symptom appeared within days or weeks of a start, an increase or a cessation, the medicine belongs in the differential before a new diagnosis is accepted.\n\nFive questions before approving treatment for a new symptom:\n1. What's the complete current list, including over-the-counter and private scripts, and when did each start?\n2. Did the symptom begin within a plausible window of a change?\n3. Is it a recognised effect of anything on the list?\n4. Has the treating doctor been asked directly, and is the answer on the file?\n5. If a medicine is the likely cause, what's the plan to change it, and who is monitoring?\n\nQuestion 4 is the one usually missing. A medication list on a file is not a review.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "New condition, or a side effect of a medicine the worker is already taking?\n\nLow mood, brain fog, falls, reflux, insomnia, constipation and weight gain are common on injury claims. They're also well-known effects of medicines often funded on those claims. If the symptom started soon after a medicine was started, increased or stopped, check the medication before accepting a new diagnosis.\n\nFive questions to ask first: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/adverse-drug-reaction-or-new-condition-claims-check",
-   "source": "imm:adverse-drug-reaction-or-new-condition-claims-check"
-  },
-  {
-   "date": "2026-11-12",
-   "post": "A2",
-   "brand": "IMM Academy",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-12-academy-rtw.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-academy-rtw.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "WHS, rehab and RTW teams: medication is the missing variable in return to work.\n\nMedication Risk in Return to Work shows you how to build medication into fitness for work decisions and RTW plans, safely and lawfully. 8 hours, self-paced, 8 ANZIIF CIP points.\n\n50% off with code LAUNCH50 until Sunday 15 November ($550, now $275). Course link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Medication is the missing variable in return to work.\n\nPhysio, graded duties and psych support all make the plan. The medicine that slows reaction time on a safety-critical shift often doesn't.\n\nMedication Risk in Return to Work is an 8-hour, self-paced course for WHS officers, safety advisors, rehab providers and RTW coordinators:\n1. Medication: the missing variable in return to work\n2. High-risk medications for safety-critical work\n3. Recognising impairment and adverse effects at work\n4. Characterising risk: the medication-task matrix\n5. Building medication into the RTW plan\n6. Escalation, collaboration and case studies\nPlus a capstone on a safety-critical return. 8 ANZIIF CIP points.\n\nLaunch offer: 50% off with code LAUNCH50 until Sunday 15 November. $550, now $275.\n\nCourse link in the first comment.\n\n#ReturnToWork #WHS #InjuryManagement #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "WHS, rehab and RTW teams: medication is the missing variable in return to work.\n\nMedication Risk in Return to Work shows you how to build medication into fitness for work decisions and RTW plans, safely and lawfully. 8 hours, self-paced, 8 ANZIIF CIP points.\n\n50% off with code LAUNCH50 until Sunday 15 November ($550, now $275). Course link in the first comment.\n\n#ReturnToWork #WHS #InjuryManagement #ANZIIF"
-   },
-   "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-rtw",
-   "source": "academy:medication-risk-rtw"
-  },
-  {
-   "date": "2026-11-12",
-   "post": "IMM3",
-   "brand": "IMM",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-12-imm-opioids-90-days.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-imm-opioids-90-days.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Not back at work at 3 months? Treat it as a medication question, not just a rehabilitation one.\n\nIn a 2025 study of 6,278 WorkSafe Victoria back and neck claims, workers not back at work at 3 months were nearly eight times more likely to still be on opioids a year later. Early high-risk prescribing, most often an opioid combined with pregabalin or a benzodiazepine, doubled the odds.\n\nWhat to look for in the first 90 days: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "Two in three injured workers prescribed opioids after a back or neck injury met at least one high-risk prescribing indicator in the first 90 days.\n\nThat's from a 2025 Monash University study in CNS Drugs (Tefera et al.) of 6,278 WorkSafe Victoria claims. The findings injury managers can act on:\n• Early high-risk prescribing roughly doubled the odds of persistent opioid use at 12 months.\n• Workers not back at work at 3 months were nearly eight times more likely to still be using opioids at 12 months.\n• The most common risk pattern wasn't a big dose. It was an opioid overlapping with another psychotropic such as pregabalin or a benzodiazepine (45.2%).\n• 38% received long-acting opioids in the acute phase.\n\nBoth of the strongest signals are visible inside 90 days: work status is on the certificate and the prescribing pattern is in the pharmacy data. The window to change the trajectory is while the pattern is forming, not once it's set.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #Opioids #InjuryManagement #ClaimsManagement"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Not back at work at 3 months? Treat it as a medication question, not just a rehabilitation one.\n\nIn a 2025 study of 6,278 WorkSafe Victoria back and neck claims, workers not back at work at 3 months were nearly eight times more likely to still be on opioids a year later. Early high-risk prescribing, most often an opioid combined with pregabalin or a benzodiazepine, doubled the odds.\n\nWhat to look for in the first 90 days: link in the first comment.\n\n#WorkersCompensation #Opioids #InjuryManagement #ClaimsManagement"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/high-risk-opioid-prescribing-injured-workers",
-   "source": "imm:high-risk-opioid-prescribing-injured-workers"
-  },
-  {
-   "date": "2026-11-13",
-   "post": "A3",
-   "brand": "IMM Academy",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-13-academy-briefings.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-academy-briefings.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Medicinal cannabis, psychedelic-assisted therapy and esketamine are showing up in treatment requests. Is your team across them?\n\nThree 30-minute briefings for case managers, IMAs, rehab providers and WHS officers, 0.5 ANZIIF CIP points each.\n\n50% off with code LAUNCH50 until Sunday ($150, now $75 each). Links in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Funded, but not understood.\n\nMedicinal cannabis, MDMA and psilocybin, and esketamine and ketamine are showing up in treatment requests. Three 30-minute briefings get case managers, IMAs, rehab providers and WHS officers across the evidence:\n- Medicinal Cannabis: Funded but Not Understood\n- MDMA and Psilocybin: Psychedelic-Assisted Therapy\n- Esketamine and Ketamine for Depression\nEach counts for 0.5 ANZIIF CIP points.\n\nLaunch offer: 50% off with code LAUNCH50 until Sunday 15 November. $150, now $75 each.\n\nLinks in the first comment.\n\n#InjuryManagement #MedicinalCannabis #WorkersCompensation #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Medicinal cannabis, psychedelic-assisted therapy and esketamine are showing up in treatment requests. Is your team across them?\n\nThree 30-minute briefings for case managers, IMAs, rehab providers and WHS officers, 0.5 ANZIIF CIP points each.\n\n50% off with code LAUNCH50 until Sunday ($150, now $75 each). Links in the first comment.\n\n#InjuryManagement #MedicinalCannabis #WorkersCompensation #ANZIIF"
-   },
-   "first_comment": "All three briefings: https://academy.imedmanagement.com.au/courses",
-   "source": "academy:briefings"
-  },
-  {
-   "date": "2026-11-13",
-   "post": "IMM4",
-   "brand": "IMM",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-13-imm-secondary-psych.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-imm-secondary-psych.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Before a secondary psychological injury is accepted on a physical claim, check the medication timeline.\n\nOpioids, benzodiazepines, gabapentinoids, steroids and sedating antidepressants can all cause low mood, anxiety or brain fog. When the mood change tracks the dose, a supervised reduction may be the right treatment rather than years of psychiatric care.\n\nHow to tell the difference: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "Secondary psychological injury is the most expensive development on a physical injury claim. In NSW, psychological injury claims are 12% of workers compensation claims and 38% of cost.\n\nSome of it is a genuine psychiatric consequence of pain, loss and disruption. Some is pharmacological: caused or amplified by the opioids, benzodiazepines, gabapentinoids, corticosteroids and sedating antidepressants already funded on the claim.\n\nThree features help tell them apart:\n• Timing against dose. Drug-induced mood change steps down with each increase and lifts with reduction.\n• Character. Apathy, flattening, sedation and interdose anxiety, rather than the guilt and rumination of a primary depressive episode.\n• Dechallenge. A supervised reduction with mood monitored over four to eight weeks is the most informative investigation, and it's almost never done before the psychiatric diagnosis goes on the claim.\n\nThe liability question is usually not whether the insurer is on risk. It's what treatment is reasonably necessary: a supervised reduction over months, or psychiatric treatment over years.\n\nGive every psychiatric assessor the full medication history, and ask them to comment on it.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #PsychologicalInjury #ClaimsManagement #CTP"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Before a secondary psychological injury is accepted on a physical claim, check the medication timeline.\n\nOpioids, benzodiazepines, gabapentinoids, steroids and sedating antidepressants can all cause low mood, anxiety or brain fog. When the mood change tracks the dose, a supervised reduction may be the right treatment rather than years of psychiatric care.\n\nHow to tell the difference: link in the first comment.\n\n#WorkersCompensation #PsychologicalInjury #ClaimsManagement #CTP"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/medication-induced-psychological-symptoms-secondary-injury-claims",
-   "source": "imm:medication-induced-psychological-symptoms-secondary-injury-claims"
-  },
-  {
-   "date": "2026-11-14",
-   "post": "A4",
-   "brand": "IMM Academy",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-academy-final.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-academy-final.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Last chance: the IMM Academy launch offer ends tomorrow.\n\n50% off courses and treatment briefings for case managers, IMAs, WHS officers and rehab providers with code LAUNCH50. Earn ANZIIF CIP points while you learn.\n\nAll courses: link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Half price ends tomorrow.\n\nThe IMM Academy launch offer closes Sunday 15 November. Use code LAUNCH50 at checkout:\n- Medication Risk in Personal Injury Claims: $550, now $275 (8 CIP points)\n- Medication Risk in Return to Work: $550, now $275 (8 CIP points)\n- Three 30-minute treatment briefings: $150, now $75 each (0.5 CIP points each)\n\nSelf-paced and online, with a certificate to record against your ANZIIF professional development. Training five or more people? Ask about organisation pricing.\n\nLinks in the first comment.\n\n#InjuryManagement #ReturnToWork #ANZIIF #ProfessionalDevelopment"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Last chance: the IMM Academy launch offer ends tomorrow.\n\n50% off courses and treatment briefings for case managers, IMAs, WHS officers and rehab providers with code LAUNCH50. Earn ANZIIF CIP points while you learn.\n\nAll courses: link in the first comment.\n\n#InjuryManagement #ReturnToWork #ANZIIF #ProfessionalDevelopment"
-   },
-   "first_comment": "All courses: https://academy.imedmanagement.com.au/courses",
-   "source": "academy:courses"
-  },
-  {
-   "date": "2026-11-14",
-   "post": "IMM5",
-   "brand": "IMM",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-imm-thc-sleep.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-imm-thc-sleep.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Sedation isn't the same as restorative sleep.\n\nTHC can help people fall asleep faster at first, but studies show the benefit fades with regular use, and chronic users have more broken, less efficient sleep. Worse sleep after stopping is a withdrawal effect, not proof it was working.\n\nWhat to ask before funding THC for sleep on a claim: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "\"I sleep better on it\" is the most common reason a THC prescription for sleep keeps going on a claim. The objective evidence tells a more complicated story.\n\n• Short-term THC can shorten sleep onset and increase deep sleep. With regular use, that gain fades.\n• In a 2025 sleep-clinic study of 1,449 adults, chronic cannabis users had 21% more wake after sleep onset, lower sleep efficiency and more light sleep.\n• REM rebound and worse sleep on stopping are consistent findings. Rebound insomnia is a withdrawal effect, not proof the medicine was working.\n• No Australian medicinal cannabis product is TGA-registered for insomnia, and Ahpra's July 2025 guidance says there is little evidence for it in insomnia, anxiety or chronic pain.\n\nThat isn't an argument to decline every request. It's an argument that a reasonably necessary decision needs a written treatment goal, an objective measure, a stable dose, improving function and an exit strategy, not the claimant's impression alone.\n\nFull article: link in the first comment.\n\n#MedicinalCannabis #WorkersCompensation #CTP #ClaimsManagement"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Sedation isn't the same as restorative sleep.\n\nTHC can help people fall asleep faster at first, but studies show the benefit fades with regular use, and chronic users have more broken, less efficient sleep. Worse sleep after stopping is a withdrawal effect, not proof it was working.\n\nWhat to ask before funding THC for sleep on a claim: link in the first comment.\n\n#MedicinalCannabis #WorkersCompensation #CTP #ClaimsManagement"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/thc-sleep-quality-medicinal-cannabis-claims",
-   "source": "imm:thc-sleep-quality-medicinal-cannabis-claims"
-  },
-  {
-   "date": "2026-11-16",
-   "post": "A5",
-   "brand": "IMM Academy",
-   "source": "academy:pharmacist-medication-review",
-   "photo": "8657293",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-academy-pharmacist-course.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-academy-pharmacist-course.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Pharmacists: the scheme training you've never had.\n\nMedication Review in Personal Injury Schemes shows registered pharmacists how to turn an insurer's referral into an independent, defensible medication review that prescribers act on. Six modules, 8 hours, self-paced, $1,100.\n\nCourse link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "The scheme training pharmacists have never had.\n\nMedication Review in Personal Injury Schemes was built for IMM's own pharmacist team. It is for registered pharmacists who review, or want to review, medication on workers' compensation, CTP, NDIS, Comcare and lifetime care claims.\n\nSix modules, 8 hours, self-paced:\n1. Personal injury schemes for pharmacists\n2. The independent pharmacist reviewer: role, ethics and law\n3. Answering the insurer's question\n4. Building an accurate medication history\n5. Clinical assessment in a scheme context\n6. The insurer-grade report and engaging prescribers\n\nCompleting it earns the credential Personal Injury Medication Reviewer (Pharmacist). $1,100.\n\nCourse link in the first comment.\n\n#Pharmacists #MedicationReview #WorkersCompensation #PersonalInjury"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Pharmacists: the scheme training you've never had.\n\nMedication Review in Personal Injury Schemes shows registered pharmacists how to turn an insurer's referral into an independent, defensible medication review that prescribers act on. Six modules, 8 hours, self-paced, $1,100.\n\nCourse link in the first comment.\n\n#Pharmacists #MedicationReview #WorkersCompensation #PersonalInjury"
-   },
-   "first_comment": "Course details: https://academy.imedmanagement.com.au/courses/pharmacist-medication-review"
-  },
-  {
-   "date": "2026-11-16",
-   "post": "IMM6",
-   "brand": "IMM",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-imm-low-back-pain.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-imm-low-back-pain.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Low back pain claim at the 6-week mark? Check the medication plan.\n\nThe ACI and SIRA low back pain model of care sets reviews at 2, 6 and 12 weeks, starts with simple pain relief, says to avoid anticonvulsants, benzodiazepines and antidepressants for low back pain, and asks the treating team to consider weaning at each review.\n\nWhat to ask the GP at each checkpoint: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "Most NSW low back pain claims should be running to a published pathway. The ACI and SIRA model of care (updated February 2024) sorts every presentation into Pathway A, B or C and fixes review points at 2, 6 and 12 weeks.\n\nTwo of its ten principles are about medicines:\n• Start with simple analgesics, time-contingent and short term, to help the person keep moving.\n• Complex pain medicines are for enabling activity, not eliminating pain: immediate-release, time-limited and in line with Therapeutic Guidelines. Anticonvulsants, benzodiazepines and antidepressants should be avoided for low back pain.\n\nWeaning is built into the reviews too. At 6 and 12 weeks the treating team is asked to consider weaning pharmacological therapy.\n\nThree questions to put to the treating GP at each checkpoint: which pathway is this claim on, what did the risk screen score last time, and what changed in the medication plan as a result?\n\nA file that can't answer those at 6 and 12 weeks is drifting from the model.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #LowBackPain #InjuryManagement #SIRA"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Low back pain claim at the 6-week mark? Check the medication plan.\n\nThe ACI and SIRA low back pain model of care sets reviews at 2, 6 and 12 weeks, starts with simple pain relief, says to avoid anticonvulsants, benzodiazepines and antidepressants for low back pain, and asks the treating team to consider weaning at each review.\n\nWhat to ask the GP at each checkpoint: link in the first comment.\n\n#WorkersCompensation #LowBackPain #InjuryManagement #SIRA"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/low-back-pain-model-of-care-injury-managers",
-   "source": "imm:low-back-pain-model-of-care-injury-managers"
-  },
-  {
-   "date": "2026-11-17",
-   "post": "A6",
-   "brand": "IMM Academy",
-   "source": "academy:enterprise",
-   "photo": "18999485",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-academy-team-licences.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-academy-team-licences.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Training a claims or injury management team? IMM Academy team licences start at 10 learners with a manager dashboard, and organisation licences add audit-ready completion reports. Courses are 8 hours, self-paced, with 8 ANZIIF CIP points.\n\nDetails in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "One trained case manager helps. A trained team changes the file.\n\nIMM Academy licences let claims, injury management and return to work teams train together on Medication Risk in Personal Injury Claims and Medication Risk in Return to Work:\n• Pilot cohort: 5 learners at $275 each, credited in full against a team or organisation licence signed within 60 days\n• Team (10 to 49 learners): $495 per learner, with a manager dashboard\n• Organisation (50 to 199): $440 per learner, plus quarterly completion reports for audit and a live Q&A with an IMM pharmacist\n• Enterprise (200+): from $350 per learner, all micro-lessons included, with custom case studies\n\nEach course is 8 hours, self-paced, and earns 8 ANZIIF CIP points.\n\nDetails in the first comment.\n\n#InjuryManagement #WorkersCompensation #ClaimsManagement #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Training a claims or injury management team? IMM Academy team licences start at 10 learners with a manager dashboard, and organisation licences add audit-ready completion reports. Courses are 8 hours, self-paced, with 8 ANZIIF CIP points.\n\nDetails in the first comment.\n\n#InjuryManagement #WorkersCompensation #ClaimsManagement #ANZIIF"
-   },
-   "first_comment": "Team and organisation licences: https://academy.imedmanagement.com.au/enterprise"
-  },
-  {
-   "date": "2026-11-17",
-   "post": "IMM7",
-   "brand": "IMM",
-   "source": "imm:medication-monitoring-rtpm-injury-claims",
-   "photo": "8296982",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-imm-rtpm-monitoring.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-imm-rtpm-monitoring.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "A medication review is a snapshot. Monitoring keeps an active claim under live watch.\n\nReal Time Prescription Monitoring shows when a medicine is started, increased, switched or stacked, so high-risk escalation and polypharmacy are flagged early, before harm develops.\n\nHow it works on workers compensation and CTP claims: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "A single medication review is a snapshot. On an active claim, the medication picture keeps moving.\n\nReal Time Prescription Monitoring (RTPM) shows prescribing and dispensing activity as it happens. On a monitored claim that means seeing when a medicine is started, increased, switched or stacked, and flagging it before dependence, escalation or a secondary injury develops.\n\nWhat monitoring adds to claim oversight:\n• live visibility of prescribing and dispensing changes\n• early flags for high-risk escalation and polypharmacy\n• regular updates on the suitability and safety of each medication profile\n• a trigger for a full review the moment one is warranted\n• a documented, proactive oversight trail\n\nIt suits claims where medication is actively changing or high-risk medicines are already in play. And because IMM does not supply medication, the oversight serves the claim, not a dispensing model.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "A medication review is a snapshot. Monitoring keeps an active claim under live watch.\n\nReal Time Prescription Monitoring shows when a medicine is started, increased, switched or stacked, so high-risk escalation and polypharmacy are flagged early, before harm develops.\n\nHow it works on workers compensation and CTP claims: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/medication-monitoring-rtpm-injury-claims"
-  },
-  {
-   "date": "2026-11-18",
-   "post": "A7",
-   "brand": "IMM Academy",
-   "source": "academy:medicinal-cannabis",
-   "photo": "8336373",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-academy-cannabis-briefing.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-academy-cannabis-briefing.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Medicinal cannabis is routine on claims, but almost every product is unapproved and THC drives most of the risk. Our 30-minute briefing gives injury management teams five levers to manage it. 0.5 ANZIIF CIP points, $150.\n\nBriefing link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Medicinal cannabis is now routine in Australia. Almost every product is unapproved, the evidence is weak outside a few narrow uses, and THC drives most of the risk.\n\nMedicinal Cannabis: Funded but Not Understood is a 30-minute briefing for case managers, IMAs, rehab providers and WHS officers. It covers the treatment, the evidence and the five levers insurers can use to manage it.\n\n30 minutes. 0.5 ANZIIF CIP points. $150.\n\nBriefing link in the first comment.\n\n#MedicinalCannabis #InjuryManagement #WorkersCompensation #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Medicinal cannabis is routine on claims, but almost every product is unapproved and THC drives most of the risk. Our 30-minute briefing gives injury management teams five levers to manage it. 0.5 ANZIIF CIP points, $150.\n\nBriefing link in the first comment.\n\n#MedicinalCannabis #InjuryManagement #WorkersCompensation #ANZIIF"
-   },
-   "first_comment": "Briefing details: https://academy.imedmanagement.com.au/courses/medicinal-cannabis"
-  },
-  {
-   "date": "2026-11-18",
-   "post": "IMM8",
-   "brand": "IMM",
-   "source": "imm:aps-pharmacist-pain-management-position-statement-injury-managers",
-   "photo": "14797860",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-imm-aps-pharmacists-pain.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-imm-aps-pharmacists-pain.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "The Australian Pain Society's first position statement on pharmacists in pain management names opioids, gabapentinoids and sedatives as harm drivers. They're the same medicines that build up on long-tail claims.\n\nWhat it means for injury managers: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "For the first time, Australia's peak multidisciplinary pain body has formally defined what pharmacists contribute to pain care.\n\nThe Australian Pain Society's 2026 position statement, The Role of the Pharmacist in the Management of Pain, positions pharmacists as part of the safety system for the medicine classes it names as harm drivers: opioids, gabapentinoids and sedatives.\n\nWhy it matters for claims teams:\n• those are the same classes that accumulate on long-tail workers compensation and CTP files\n• the statement highlights growing polypharmacy, defined as 5 or more medicines\n• it maps pharmacist activity across assessment, management and monitoring\n• it gives independent, citable support for building a pharmacist medication review into complex claims\n\nFull article: link in the first comment.\n\n#PainManagement #WorkersCompensation #CTP #InjuryManagement"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "The Australian Pain Society's first position statement on pharmacists in pain management names opioids, gabapentinoids and sedatives as harm drivers. They're the same medicines that build up on long-tail claims.\n\nWhat it means for injury managers: link in the first comment.\n\n#PainManagement #WorkersCompensation #CTP #InjuryManagement"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/aps-pharmacist-pain-management-position-statement-injury-managers"
-  },
-  {
-   "date": "2026-11-19",
-   "post": "A8",
-   "brand": "IMM Academy",
-   "source": "academy:medication-risk-claims",
-   "photo": "7735634",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-academy-intervention-window.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-academy-intervention-window.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Case managers: weeks 4 to 12 are the best window to act on medication. After that, regimens get complex and harder to change. Our 8-hour course shows you what to notice, what to ask and when to escalate. 8 ANZIIF CIP points, $550.\n\nCourse link in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Medication is the one treatment on almost every claim, and the one least often reviewed.\n\nMost medicines are started appropriately. The risk comes later: doses climb, medicines are added, and nobody steps back. Weeks 4 to 12 are the best window to act, before regimens become complex between weeks 12 and 26.\n\nMedication Risk in Personal Injury Claims teaches case managers and claims officers to notice, ask the right question and escalate early, without judging prescribing. It frames every medication question as two questions: medication or condition, and liable or not.\n\n8 hours, self-paced, 8 ANZIIF CIP points. $550.\n\nCourse link in the first comment.\n\n#InjuryManagement #CaseManagement #WorkersCompensation #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Case managers: weeks 4 to 12 are the best window to act on medication. After that, regimens get complex and harder to change. Our 8-hour course shows you what to notice, what to ask and when to escalate. 8 ANZIIF CIP points, $550.\n\nCourse link in the first comment.\n\n#InjuryManagement #CaseManagement #WorkersCompensation #ANZIIF"
-   },
-   "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-claims"
-  },
-  {
-   "date": "2026-11-19",
-   "post": "IMM9",
-   "brand": "IMM",
-   "source": "imm:mounjaro-tirzepatide-workers-compensation-claims",
-   "photo": "5998466",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-imm-mounjaro.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-imm-mounjaro.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Mounjaro on a workers compensation claim? It's TGA-approved for weight management but not PBS-listed, so causation, cost and clinical necessity all need checking, starting with whether the prescription fits an approved indication.\n\nA practical guide for claims managers: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "Mounjaro (tirzepatide) is appearing more often on workers compensation claims. It is TGA-approved but not PBS-listed, so claims managers need clear criteria for causation, cost and clinical necessity.\n\nStart with the indication. TGA approval covers:\n• type 2 diabetes (December 2022)\n• chronic weight management in adults with a BMI of 30 or above, or 27 or above with a weight-related comorbidity (September 2024)\n• moderate to severe obstructive sleep apnoea in adults with obesity (2025)\n\nAny scheme invoice should sit within one of these. Off-label prescribing, such as general fitness or weight management below the eligibility BMI, has no approved pathway and warrants immediate review.\n\nThen causation. Weight gain is a recognised secondary complication of injuries that restrict physical activity, but the link still has to be established on the file.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #ClaimsManagement #Mounjaro #MedicationSafety"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Mounjaro on a workers compensation claim? It's TGA-approved for weight management but not PBS-listed, so causation, cost and clinical necessity all need checking, starting with whether the prescription fits an approved indication.\n\nA practical guide for claims managers: link in the first comment.\n\n#WorkersCompensation #ClaimsManagement #Mounjaro #MedicationSafety"
-   },
-   "first_comment": "Read the full guide: https://imedmanagement.com.au/insights/mounjaro-tirzepatide-workers-compensation-claims"
-  },
-  {
-   "date": "2026-11-20",
-   "post": "IMM10",
-   "brand": "IMM",
-   "source": "imm:prescribing-cascades-personal-injury-claims",
-   "photo": "5407207",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-imm-prescribing-cascades.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-imm-prescribing-cascades.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "A side effect gets treated as a new condition, a second medicine is added, and then a third. On injury claims, that is how one medication becomes four, while the original cause is never addressed.\n\nHow to spot and stop a prescribing cascade: link in the first comment."
-   },
-   "linkedin": {
-    "account": "71330183",
-    "commentary": "Most polypharmacy on a personal injury claim does not arrive in one prescription. It accumulates one logical step at a time, as each medication's side effect is treated with the next.\n\nA prescribing cascade begins when an adverse drug reaction is misinterpreted as a new medical condition. A second drug is prescribed to treat it, that drug's own effects may be treated in turn, and the original cause is never addressed because it has been given a different name.\n\nFour features of compensation claims make cascades more likely:\n• prescribing is fragmented across GPs, specialists and emergency departments\n• pain, poor sleep and low mood are expected, so a drug cause is rarely raised\n• a new diagnosis can unlock treatment funding and entitlements\n• nobody is paid to subtract unless the insurer makes it someone's brief\n\nAustralian data puts adverse medicine events in more than 190,000 hospital admissions a year.\n\nFull article: link in the first comment.\n\n#Polypharmacy #InjuryManagement #WorkersCompensation #MedicationSafety"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "A side effect gets treated as a new condition, a second medicine is added, and then a third. On injury claims, that is how one medication becomes four, while the original cause is never addressed.\n\nHow to spot and stop a prescribing cascade: link in the first comment.\n\n#Polypharmacy #InjuryManagement #WorkersCompensation #MedicationSafety"
-   },
-   "first_comment": "Read the full article: https://imedmanagement.com.au/insights/prescribing-cascades-personal-injury-claims"
-  },
-  {
-   "date": "2026-11-20",
-   "post": "A9",
-   "brand": "IMM Academy",
-   "source": "academy:esketamine-ketamine",
-   "photo": "3873141",
-   "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-academy-esketamine-ketamine.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-academy-esketamine-ketamine.jpg",
-   "facebook": {
-    "account": "106726314764969",
-    "caption": "Esketamine and subcutaneous ketamine are not the same treatment. One is an approved nasal spray with a strict protocol. The other is off-label, with a much weaker evidence base. Our 30-minute briefing shows injury management teams how to tell them apart and check a request against the protocol. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment."
-   },
-   "linkedin": {
-    "account": "144056031",
-    "commentary": "Ketamine-based treatment for depression comes in two very different forms, and a claim file needs to know which one it is looking at.\n\nEsketamine (Spravato) is an approved nasal spray for treatment-resistant depression, with a strict protocol that makes funding decisions straightforward to test. Subcutaneous ketamine is a different, off-label treatment with a much weaker evidence base.\n\nEsketamine and Ketamine for Depression is a 30-minute briefing for case managers, IMAs, rehab providers and WHS officers. It teaches learners to:\n• tell the two treatments apart\n• check an esketamine request against the protocol\n• assess subcutaneous ketamine as a separate request\n\n30 minutes. 0.5 ANZIIF CIP points. $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
-   },
-   "instagram": {
-    "account": "17841445514866994",
-    "caption": "Esketamine and subcutaneous ketamine are not the same treatment. One is an approved nasal spray with a strict protocol. The other is off-label, with a much weaker evidence base. Our 30-minute briefing shows injury management teams how to tell them apart and check a request against the protocol. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
-   },
-   "first_comment": "Course details: https://academy.imedmanagement.com.au/courses/esketamine-ketamine"
-  }
- ],
- "used_before_schedule": [
-  "imm:clause-8p-reasonable-and-necessary-test-nsw"
- ]
+  "note": "Scheduled social posts, read by the 6:35am daily posting run. Each entry posts once, on its date (Australia/Brisbane).",
+  "posts": [
+    {
+      "date": "2026-11-11",
+      "post": "A1",
+      "brand": "IMM Academy",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-11-academy-claims.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-11-academy-claims.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Case managers: is it the medication, or the condition?\n\nOur 8-hour, self-paced course Medication Risk in Personal Injury Claims teaches you to see medication on the file and act before a secondary condition is accepted. 8 ANZIIF CIP points.\n\nThe launch offer ends Sunday 15 November: 50% off with code LAUNCH50 ($550, now $275). Course link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Is it the medication, or the condition?\n\nIt's the question that decides whether a secondary condition gets accepted, and most claims teams have never been trained to answer it.\n\nMedication Risk in Personal Injury Claims is an 8-hour, self-paced course for injury management advisors, case managers and claims officers:\n1. The medication problem in the scheme\n2. Identifying high-risk medications\n3. Spotting adverse effects on the file\n4. Medication or condition? Characterising the concern\n5. Getting the right information\n6. Taking action\nPlus a capstone case plan and final exam. 8 ANZIIF CIP points.\n\nFinal week of the launch offer: 50% off with code LAUNCH50 until Sunday 15 November. $550, now $275.\n\nCourse link in the first comment.\n\n#InjuryManagement #WorkersCompensation #CaseManagement #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Case managers: is it the medication, or the condition?\n\nOur 8-hour, self-paced course Medication Risk in Personal Injury Claims teaches you to see medication on the file and act before a secondary condition is accepted. 8 ANZIIF CIP points.\n\nThe launch offer ends Sunday 15 November: 50% off with code LAUNCH50 ($550, now $275). Course link in the first comment.\n\n#InjuryManagement #WorkersCompensation #CaseManagement #ANZIIF"
+      },
+      "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-claims",
+      "source": "academy:medication-risk-claims"
+    },
+    {
+      "date": "2026-11-11",
+      "post": "IMM2",
+      "brand": "IMM",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-11-imm-new-condition.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-11-imm-new-condition.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "New condition, or a side effect of a medicine the worker is already taking?\n\nLow mood, brain fog, falls, reflux, insomnia, constipation and weight gain are common on injury claims. They're also well-known effects of medicines often funded on those claims. If the symptom started soon after a medicine was started, increased or stopped, check the medication before accepting a new diagnosis.\n\nFive questions to ask first: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "A new symptom on a long-running claim is usually treated as a new problem. Sometimes it's the predictable effect of a medicine the worker is already taking.\n\nWhen an adverse drug reaction is mistaken for a new condition and a second medicine is added to treat it, that's a prescribing cascade (Australian Prescriber, 2011). On a claim it also creates a documented condition, funded treatment, a possible secondary condition claim and a certificate that no longer matches the original injury.\n\nTiming does most of the work. If the symptom appeared within days or weeks of a start, an increase or a cessation, the medicine belongs in the differential before a new diagnosis is accepted.\n\nFive questions before approving treatment for a new symptom:\n1. What's the complete current list, including over-the-counter and private scripts, and when did each start?\n2. Did the symptom begin within a plausible window of a change?\n3. Is it a recognised effect of anything on the list?\n4. Has the treating doctor been asked directly, and is the answer on the file?\n5. If a medicine is the likely cause, what's the plan to change it, and who is monitoring?\n\nQuestion 4 is the one usually missing. A medication list on a file is not a review.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "New condition, or a side effect of a medicine the worker is already taking?\n\nLow mood, brain fog, falls, reflux, insomnia, constipation and weight gain are common on injury claims. They're also well-known effects of medicines often funded on those claims. If the symptom started soon after a medicine was started, increased or stopped, check the medication before accepting a new diagnosis.\n\nFive questions to ask first: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/adverse-drug-reaction-or-new-condition-claims-check",
+      "source": "imm:adverse-drug-reaction-or-new-condition-claims-check"
+    },
+    {
+      "date": "2026-11-12",
+      "post": "A2",
+      "brand": "IMM Academy",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-12-academy-rtw.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-academy-rtw.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "WHS, rehab and RTW teams: medication is the missing variable in return to work.\n\nMedication Risk in Return to Work shows you how to build medication into fitness for work decisions and RTW plans, safely and lawfully. 8 hours, self-paced, 8 ANZIIF CIP points.\n\n50% off with code LAUNCH50 until Sunday 15 November ($550, now $275). Course link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Medication is the missing variable in return to work.\n\nPhysio, graded duties and psych support all make the plan. The medicine that slows reaction time on a safety-critical shift often doesn't.\n\nMedication Risk in Return to Work is an 8-hour, self-paced course for WHS officers, safety advisors, rehab providers and RTW coordinators:\n1. Medication: the missing variable in return to work\n2. High-risk medications for safety-critical work\n3. Recognising impairment and adverse effects at work\n4. Characterising risk: the medication-task matrix\n5. Building medication into the RTW plan\n6. Escalation, collaboration and case studies\nPlus a capstone on a safety-critical return. 8 ANZIIF CIP points.\n\nLaunch offer: 50% off with code LAUNCH50 until Sunday 15 November. $550, now $275.\n\nCourse link in the first comment.\n\n#ReturnToWork #WHS #InjuryManagement #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "WHS, rehab and RTW teams: medication is the missing variable in return to work.\n\nMedication Risk in Return to Work shows you how to build medication into fitness for work decisions and RTW plans, safely and lawfully. 8 hours, self-paced, 8 ANZIIF CIP points.\n\n50% off with code LAUNCH50 until Sunday 15 November ($550, now $275). Course link in the first comment.\n\n#ReturnToWork #WHS #InjuryManagement #ANZIIF"
+      },
+      "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-rtw",
+      "source": "academy:medication-risk-rtw"
+    },
+    {
+      "date": "2026-11-12",
+      "post": "IMM3",
+      "brand": "IMM",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-12-imm-opioids-90-days.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-12-imm-opioids-90-days.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Not back at work at 3 months? Treat it as a medication question, not just a rehabilitation one.\n\nIn a 2025 study of 6,278 WorkSafe Victoria back and neck claims, workers not back at work at 3 months were nearly eight times more likely to still be on opioids a year later. Early high-risk prescribing, most often an opioid combined with pregabalin or a benzodiazepine, doubled the odds.\n\nWhat to look for in the first 90 days: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "Two in three injured workers prescribed opioids after a back or neck injury met at least one high-risk prescribing indicator in the first 90 days.\n\nThat's from a 2025 Monash University study in CNS Drugs (Tefera et al.) of 6,278 WorkSafe Victoria claims. The findings injury managers can act on:\n• Early high-risk prescribing roughly doubled the odds of persistent opioid use at 12 months.\n• Workers not back at work at 3 months were nearly eight times more likely to still be using opioids at 12 months.\n• The most common risk pattern wasn't a big dose. It was an opioid overlapping with another psychotropic such as pregabalin or a benzodiazepine (45.2%).\n• 38% received long-acting opioids in the acute phase.\n\nBoth of the strongest signals are visible inside 90 days: work status is on the certificate and the prescribing pattern is in the pharmacy data. The window to change the trajectory is while the pattern is forming, not once it's set.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #Opioids #InjuryManagement #ClaimsManagement"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Not back at work at 3 months? Treat it as a medication question, not just a rehabilitation one.\n\nIn a 2025 study of 6,278 WorkSafe Victoria back and neck claims, workers not back at work at 3 months were nearly eight times more likely to still be on opioids a year later. Early high-risk prescribing, most often an opioid combined with pregabalin or a benzodiazepine, doubled the odds.\n\nWhat to look for in the first 90 days: link in the first comment.\n\n#WorkersCompensation #Opioids #InjuryManagement #ClaimsManagement"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/high-risk-opioid-prescribing-injured-workers",
+      "source": "imm:high-risk-opioid-prescribing-injured-workers"
+    },
+    {
+      "date": "2026-11-13",
+      "post": "A3",
+      "brand": "IMM Academy",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-13-academy-briefings.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-academy-briefings.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Medicinal cannabis, psychedelic-assisted therapy and esketamine are showing up in treatment requests. Is your team across them?\n\nThree 30-minute briefings for case managers, IMAs, rehab providers and WHS officers, 0.5 ANZIIF CIP points each.\n\n50% off with code LAUNCH50 until Sunday ($150, now $75 each). Links in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Funded, but not understood.\n\nMedicinal cannabis, MDMA and psilocybin, and esketamine and ketamine are showing up in treatment requests. Three 30-minute briefings get case managers, IMAs, rehab providers and WHS officers across the evidence:\n- Medicinal Cannabis: Funded but Not Understood\n- MDMA and Psilocybin: Psychedelic-Assisted Therapy\n- Esketamine and Ketamine for Depression\nEach counts for 0.5 ANZIIF CIP points.\n\nLaunch offer: 50% off with code LAUNCH50 until Sunday 15 November. $150, now $75 each.\n\nLinks in the first comment.\n\n#InjuryManagement #MedicinalCannabis #WorkersCompensation #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Medicinal cannabis, psychedelic-assisted therapy and esketamine are showing up in treatment requests. Is your team across them?\n\nThree 30-minute briefings for case managers, IMAs, rehab providers and WHS officers, 0.5 ANZIIF CIP points each.\n\n50% off with code LAUNCH50 until Sunday ($150, now $75 each). Links in the first comment.\n\n#InjuryManagement #MedicinalCannabis #WorkersCompensation #ANZIIF"
+      },
+      "first_comment": "All three briefings: https://academy.imedmanagement.com.au/courses",
+      "source": "academy:briefings"
+    },
+    {
+      "date": "2026-11-13",
+      "post": "IMM4",
+      "brand": "IMM",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-13-imm-secondary-psych.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-13-imm-secondary-psych.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Before a secondary psychological injury is accepted on a physical claim, check the medication timeline.\n\nOpioids, benzodiazepines, gabapentinoids, steroids and sedating antidepressants can all cause low mood, anxiety or brain fog. When the mood change tracks the dose, a supervised reduction may be the right treatment rather than years of psychiatric care.\n\nHow to tell the difference: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "Secondary psychological injury is the most expensive development on a physical injury claim. In NSW, psychological injury claims are 12% of workers compensation claims and 38% of cost.\n\nSome of it is a genuine psychiatric consequence of pain, loss and disruption. Some is pharmacological: caused or amplified by the opioids, benzodiazepines, gabapentinoids, corticosteroids and sedating antidepressants already funded on the claim.\n\nThree features help tell them apart:\n• Timing against dose. Drug-induced mood change steps down with each increase and lifts with reduction.\n• Character. Apathy, flattening, sedation and interdose anxiety, rather than the guilt and rumination of a primary depressive episode.\n• Dechallenge. A supervised reduction with mood monitored over four to eight weeks is the most informative investigation, and it's almost never done before the psychiatric diagnosis goes on the claim.\n\nThe liability question is usually not whether the insurer is on risk. It's what treatment is reasonably necessary: a supervised reduction over months, or psychiatric treatment over years.\n\nGive every psychiatric assessor the full medication history, and ask them to comment on it.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #PsychologicalInjury #ClaimsManagement #CTP"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Before a secondary psychological injury is accepted on a physical claim, check the medication timeline.\n\nOpioids, benzodiazepines, gabapentinoids, steroids and sedating antidepressants can all cause low mood, anxiety or brain fog. When the mood change tracks the dose, a supervised reduction may be the right treatment rather than years of psychiatric care.\n\nHow to tell the difference: link in the first comment.\n\n#WorkersCompensation #PsychologicalInjury #ClaimsManagement #CTP"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/medication-induced-psychological-symptoms-secondary-injury-claims",
+      "source": "imm:medication-induced-psychological-symptoms-secondary-injury-claims"
+    },
+    {
+      "date": "2026-11-14",
+      "post": "A4",
+      "brand": "IMM Academy",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-academy-final.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-academy-final.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Last chance: the IMM Academy launch offer ends tomorrow.\n\n50% off courses and treatment briefings for case managers, IMAs, WHS officers and rehab providers with code LAUNCH50. Earn ANZIIF CIP points while you learn.\n\nAll courses: link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Half price ends tomorrow.\n\nThe IMM Academy launch offer closes Sunday 15 November. Use code LAUNCH50 at checkout:\n- Medication Risk in Personal Injury Claims: $550, now $275 (8 CIP points)\n- Medication Risk in Return to Work: $550, now $275 (8 CIP points)\n- Three 30-minute treatment briefings: $150, now $75 each (0.5 CIP points each)\n\nSelf-paced and online, with a certificate to record against your ANZIIF professional development. Training five or more people? Ask about organisation pricing.\n\nLinks in the first comment.\n\n#InjuryManagement #ReturnToWork #ANZIIF #ProfessionalDevelopment"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Last chance: the IMM Academy launch offer ends tomorrow.\n\n50% off courses and treatment briefings for case managers, IMAs, WHS officers and rehab providers with code LAUNCH50. Earn ANZIIF CIP points while you learn.\n\nAll courses: link in the first comment.\n\n#InjuryManagement #ReturnToWork #ANZIIF #ProfessionalDevelopment"
+      },
+      "first_comment": "All courses: https://academy.imedmanagement.com.au/courses",
+      "source": "academy:courses"
+    },
+    {
+      "date": "2026-11-14",
+      "post": "IMM5",
+      "brand": "IMM",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-14-imm-thc-sleep.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-14-imm-thc-sleep.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Sedation isn't the same as restorative sleep.\n\nTHC can help people fall asleep faster at first, but studies show the benefit fades with regular use, and chronic users have more broken, less efficient sleep. Worse sleep after stopping is a withdrawal effect, not proof it was working.\n\nWhat to ask before funding THC for sleep on a claim: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "\"I sleep better on it\" is the most common reason a THC prescription for sleep keeps going on a claim. The objective evidence tells a more complicated story.\n\n• Short-term THC can shorten sleep onset and increase deep sleep. With regular use, that gain fades.\n• In a 2025 sleep-clinic study of 1,449 adults, chronic cannabis users had 21% more wake after sleep onset, lower sleep efficiency and more light sleep.\n• REM rebound and worse sleep on stopping are consistent findings. Rebound insomnia is a withdrawal effect, not proof the medicine was working.\n• No Australian medicinal cannabis product is TGA-registered for insomnia, and Ahpra's July 2025 guidance says there is little evidence for it in insomnia, anxiety or chronic pain.\n\nThat isn't an argument to decline every request. It's an argument that a reasonably necessary decision needs a written treatment goal, an objective measure, a stable dose, improving function and an exit strategy, not the claimant's impression alone.\n\nFull article: link in the first comment.\n\n#MedicinalCannabis #WorkersCompensation #CTP #ClaimsManagement"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Sedation isn't the same as restorative sleep.\n\nTHC can help people fall asleep faster at first, but studies show the benefit fades with regular use, and chronic users have more broken, less efficient sleep. Worse sleep after stopping is a withdrawal effect, not proof it was working.\n\nWhat to ask before funding THC for sleep on a claim: link in the first comment.\n\n#MedicinalCannabis #WorkersCompensation #CTP #ClaimsManagement"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/thc-sleep-quality-medicinal-cannabis-claims",
+      "source": "imm:thc-sleep-quality-medicinal-cannabis-claims"
+    },
+    {
+      "date": "2026-11-16",
+      "post": "A5",
+      "brand": "IMM Academy",
+      "source": "academy:pharmacist-medication-review",
+      "photo": "8657293",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-academy-pharmacist-course.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-academy-pharmacist-course.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Pharmacists: the scheme training you've never had.\n\nMedication Review in Personal Injury Schemes shows registered pharmacists how to turn an insurer's referral into an independent, defensible medication review that prescribers act on. Six modules, 8 hours, self-paced, $1,100.\n\nCourse link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "The scheme training pharmacists have never had.\n\nMedication Review in Personal Injury Schemes was built for IMM's own pharmacist team. It is for registered pharmacists who review, or want to review, medication on workers' compensation, CTP, NDIS, Comcare and lifetime care claims.\n\nSix modules, 8 hours, self-paced:\n1. Personal injury schemes for pharmacists\n2. The independent pharmacist reviewer: role, ethics and law\n3. Answering the insurer's question\n4. Building an accurate medication history\n5. Clinical assessment in a scheme context\n6. The insurer-grade report and engaging prescribers\n\nCompleting it earns the credential Personal Injury Medication Reviewer (Pharmacist). $1,100.\n\nCourse link in the first comment.\n\n#Pharmacists #MedicationReview #WorkersCompensation #PersonalInjury"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Pharmacists: the scheme training you've never had.\n\nMedication Review in Personal Injury Schemes shows registered pharmacists how to turn an insurer's referral into an independent, defensible medication review that prescribers act on. Six modules, 8 hours, self-paced, $1,100.\n\nCourse link in the first comment.\n\n#Pharmacists #MedicationReview #WorkersCompensation #PersonalInjury"
+      },
+      "first_comment": "Course details: https://academy.imedmanagement.com.au/courses/pharmacist-medication-review"
+    },
+    {
+      "date": "2026-11-16",
+      "post": "IMM6",
+      "brand": "IMM",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-16-imm-low-back-pain.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-16-imm-low-back-pain.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Low back pain claim at the 6-week mark? Check the medication plan.\n\nThe ACI and SIRA low back pain model of care sets reviews at 2, 6 and 12 weeks, starts with simple pain relief, says to avoid anticonvulsants, benzodiazepines and antidepressants for low back pain, and asks the treating team to consider weaning at each review.\n\nWhat to ask the GP at each checkpoint: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "Most NSW low back pain claims should be running to a published pathway. The ACI and SIRA model of care (updated February 2024) sorts every presentation into Pathway A, B or C and fixes review points at 2, 6 and 12 weeks.\n\nTwo of its ten principles are about medicines:\n• Start with simple analgesics, time-contingent and short term, to help the person keep moving.\n• Complex pain medicines are for enabling activity, not eliminating pain: immediate-release, time-limited and in line with Therapeutic Guidelines. Anticonvulsants, benzodiazepines and antidepressants should be avoided for low back pain.\n\nWeaning is built into the reviews too. At 6 and 12 weeks the treating team is asked to consider weaning pharmacological therapy.\n\nThree questions to put to the treating GP at each checkpoint: which pathway is this claim on, what did the risk screen score last time, and what changed in the medication plan as a result?\n\nA file that can't answer those at 6 and 12 weeks is drifting from the model.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #LowBackPain #InjuryManagement #SIRA"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Low back pain claim at the 6-week mark? Check the medication plan.\n\nThe ACI and SIRA low back pain model of care sets reviews at 2, 6 and 12 weeks, starts with simple pain relief, says to avoid anticonvulsants, benzodiazepines and antidepressants for low back pain, and asks the treating team to consider weaning at each review.\n\nWhat to ask the GP at each checkpoint: link in the first comment.\n\n#WorkersCompensation #LowBackPain #InjuryManagement #SIRA"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/low-back-pain-model-of-care-injury-managers",
+      "source": "imm:low-back-pain-model-of-care-injury-managers"
+    },
+    {
+      "date": "2026-11-17",
+      "post": "A6",
+      "brand": "IMM Academy",
+      "source": "academy:enterprise",
+      "photo": "18999485",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-academy-team-licences.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-academy-team-licences.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Training a claims or injury management team? IMM Academy team licences start at 10 learners with a manager dashboard, and organisation licences add audit-ready completion reports. Courses are 8 hours, self-paced, with 8 ANZIIF CIP points.\n\nDetails in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "One trained case manager helps. A trained team changes the file.\n\nIMM Academy licences let claims, injury management and return to work teams train together on Medication Risk in Personal Injury Claims and Medication Risk in Return to Work:\n• Pilot cohort: 5 learners at $275 each, credited in full against a team or organisation licence signed within 60 days\n• Team (10 to 49 learners): $495 per learner, with a manager dashboard\n• Organisation (50 to 199): $440 per learner, plus quarterly completion reports for audit and a live Q&A with an IMM pharmacist\n• Enterprise (200+): from $350 per learner, all micro-lessons included, with custom case studies\n\nEach course is 8 hours, self-paced, and earns 8 ANZIIF CIP points.\n\nDetails in the first comment.\n\n#InjuryManagement #WorkersCompensation #ClaimsManagement #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Training a claims or injury management team? IMM Academy team licences start at 10 learners with a manager dashboard, and organisation licences add audit-ready completion reports. Courses are 8 hours, self-paced, with 8 ANZIIF CIP points.\n\nDetails in the first comment.\n\n#InjuryManagement #WorkersCompensation #ClaimsManagement #ANZIIF"
+      },
+      "first_comment": "Team and organisation licences: https://academy.imedmanagement.com.au/enterprise"
+    },
+    {
+      "date": "2026-11-17",
+      "post": "IMM7",
+      "brand": "IMM",
+      "source": "imm:medication-monitoring-rtpm-injury-claims",
+      "photo": "8296982",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-17-imm-rtpm-monitoring.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-17-imm-rtpm-monitoring.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "A medication review is a snapshot. Monitoring keeps an active claim under live watch.\n\nReal Time Prescription Monitoring shows when a medicine is started, increased, switched or stacked, so high-risk escalation and polypharmacy are flagged early, before harm develops.\n\nHow it works on workers compensation and CTP claims: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "A single medication review is a snapshot. On an active claim, the medication picture keeps moving.\n\nReal Time Prescription Monitoring (RTPM) shows prescribing and dispensing activity as it happens. On a monitored claim that means seeing when a medicine is started, increased, switched or stacked, and flagging it before dependence, escalation or a secondary injury develops.\n\nWhat monitoring adds to claim oversight:\n• live visibility of prescribing and dispensing changes\n• early flags for high-risk escalation and polypharmacy\n• regular updates on the suitability and safety of each medication profile\n• a trigger for a full review the moment one is warranted\n• a documented, proactive oversight trail\n\nIt suits claims where medication is actively changing or high-risk medicines are already in play. And because IMM does not supply medication, the oversight serves the claim, not a dispensing model.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "A medication review is a snapshot. Monitoring keeps an active claim under live watch.\n\nReal Time Prescription Monitoring shows when a medicine is started, increased, switched or stacked, so high-risk escalation and polypharmacy are flagged early, before harm develops.\n\nHow it works on workers compensation and CTP claims: link in the first comment.\n\n#WorkersCompensation #CTP #ClaimsManagement #MedicationSafety"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/medication-monitoring-rtpm-injury-claims"
+    },
+    {
+      "date": "2026-11-18",
+      "post": "A7",
+      "brand": "IMM Academy",
+      "source": "academy:medicinal-cannabis",
+      "photo": "8336373",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-academy-cannabis-briefing.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-academy-cannabis-briefing.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Medicinal cannabis is routine on claims, but almost every product is unapproved and THC drives most of the risk. Our 30-minute briefing gives injury management teams five levers to manage it. 0.5 ANZIIF CIP points, $150.\n\nBriefing link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Medicinal cannabis is now routine in Australia. Almost every product is unapproved, the evidence is weak outside a few narrow uses, and THC drives most of the risk.\n\nMedicinal Cannabis: Funded but Not Understood is a 30-minute briefing for case managers, IMAs, rehab providers and WHS officers. It covers the treatment, the evidence and the five levers insurers can use to manage it.\n\n30 minutes. 0.5 ANZIIF CIP points. $150.\n\nBriefing link in the first comment.\n\n#MedicinalCannabis #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Medicinal cannabis is routine on claims, but almost every product is unapproved and THC drives most of the risk. Our 30-minute briefing gives injury management teams five levers to manage it. 0.5 ANZIIF CIP points, $150.\n\nBriefing link in the first comment.\n\n#MedicinalCannabis #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "first_comment": "Briefing details: https://academy.imedmanagement.com.au/courses/medicinal-cannabis"
+    },
+    {
+      "date": "2026-11-18",
+      "post": "IMM8",
+      "brand": "IMM",
+      "source": "imm:aps-pharmacist-pain-management-position-statement-injury-managers",
+      "photo": "14797860",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-18-imm-aps-pharmacists-pain.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-18-imm-aps-pharmacists-pain.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "The Australian Pain Society's first position statement on pharmacists in pain management names opioids, gabapentinoids and sedatives as harm drivers. They're the same medicines that build up on long-tail claims.\n\nWhat it means for injury managers: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "For the first time, Australia's peak multidisciplinary pain body has formally defined what pharmacists contribute to pain care.\n\nThe Australian Pain Society's 2026 position statement, The Role of the Pharmacist in the Management of Pain, positions pharmacists as part of the safety system for the medicine classes it names as harm drivers: opioids, gabapentinoids and sedatives.\n\nWhy it matters for claims teams:\n• those are the same classes that accumulate on long-tail workers compensation and CTP files\n• the statement highlights growing polypharmacy, defined as 5 or more medicines\n• it maps pharmacist activity across assessment, management and monitoring\n• it gives independent, citable support for building a pharmacist medication review into complex claims\n\nFull article: link in the first comment.\n\n#PainManagement #WorkersCompensation #CTP #InjuryManagement"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "The Australian Pain Society's first position statement on pharmacists in pain management names opioids, gabapentinoids and sedatives as harm drivers. They're the same medicines that build up on long-tail claims.\n\nWhat it means for injury managers: link in the first comment.\n\n#PainManagement #WorkersCompensation #CTP #InjuryManagement"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/aps-pharmacist-pain-management-position-statement-injury-managers"
+    },
+    {
+      "date": "2026-11-19",
+      "post": "A8",
+      "brand": "IMM Academy",
+      "source": "academy:medication-risk-claims",
+      "photo": "7735634",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-academy-intervention-window.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-academy-intervention-window.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Case managers: weeks 4 to 12 are the best window to act on medication. After that, regimens get complex and harder to change. Our 8-hour course shows you what to notice, what to ask and when to escalate. 8 ANZIIF CIP points, $550.\n\nCourse link in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Medication is the one treatment on almost every claim, and the one least often reviewed.\n\nMost medicines are started appropriately. The risk comes later: doses climb, medicines are added, and nobody steps back. Weeks 4 to 12 are the best window to act, before regimens become complex between weeks 12 and 26.\n\nMedication Risk in Personal Injury Claims teaches case managers and claims officers to notice, ask the right question and escalate early, without judging prescribing. It frames every medication question as two questions: medication or condition, and liable or not.\n\n8 hours, self-paced, 8 ANZIIF CIP points. $550.\n\nCourse link in the first comment.\n\n#InjuryManagement #CaseManagement #WorkersCompensation #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Case managers: weeks 4 to 12 are the best window to act on medication. After that, regimens get complex and harder to change. Our 8-hour course shows you what to notice, what to ask and when to escalate. 8 ANZIIF CIP points, $550.\n\nCourse link in the first comment.\n\n#InjuryManagement #CaseManagement #WorkersCompensation #ANZIIF"
+      },
+      "first_comment": "Enrol here: https://academy.imedmanagement.com.au/courses/medication-risk-claims"
+    },
+    {
+      "date": "2026-11-19",
+      "post": "IMM9",
+      "brand": "IMM",
+      "source": "imm:mounjaro-tirzepatide-workers-compensation-claims",
+      "photo": "5998466",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-19-imm-mounjaro.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-19-imm-mounjaro.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Mounjaro on a workers compensation claim? It's TGA-approved for weight management but not PBS-listed, so causation, cost and clinical necessity all need checking, starting with whether the prescription fits an approved indication.\n\nA practical guide for claims managers: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "Mounjaro (tirzepatide) is appearing more often on workers compensation claims. It is TGA-approved but not PBS-listed, so claims managers need clear criteria for causation, cost and clinical necessity.\n\nStart with the indication. TGA approval covers:\n• type 2 diabetes (December 2022)\n• chronic weight management in adults with a BMI of 30 or above, or 27 or above with a weight-related comorbidity (September 2024)\n• moderate to severe obstructive sleep apnoea in adults with obesity (2025)\n\nAny scheme invoice should sit within one of these. Off-label prescribing, such as general fitness or weight management below the eligibility BMI, has no approved pathway and warrants immediate review.\n\nThen causation. Weight gain is a recognised secondary complication of injuries that restrict physical activity, but the link still has to be established on the file.\n\nFull guide: link in the first comment.\n\n#WorkersCompensation #ClaimsManagement #Mounjaro #MedicationSafety"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Mounjaro on a workers compensation claim? It's TGA-approved for weight management but not PBS-listed, so causation, cost and clinical necessity all need checking, starting with whether the prescription fits an approved indication.\n\nA practical guide for claims managers: link in the first comment.\n\n#WorkersCompensation #ClaimsManagement #Mounjaro #MedicationSafety"
+      },
+      "first_comment": "Read the full guide: https://imedmanagement.com.au/insights/mounjaro-tirzepatide-workers-compensation-claims"
+    },
+    {
+      "date": "2026-11-20",
+      "post": "IMM10",
+      "brand": "IMM",
+      "source": "imm:prescribing-cascades-personal-injury-claims",
+      "photo": "5407207",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-imm-prescribing-cascades.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-imm-prescribing-cascades.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "A side effect gets treated as a new condition, a second medicine is added, and then a third. On injury claims, that is how one medication becomes four, while the original cause is never addressed.\n\nHow to spot and stop a prescribing cascade: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "Most polypharmacy on a personal injury claim does not arrive in one prescription. It accumulates one logical step at a time, as each medication's side effect is treated with the next.\n\nA prescribing cascade begins when an adverse drug reaction is misinterpreted as a new medical condition. A second drug is prescribed to treat it, that drug's own effects may be treated in turn, and the original cause is never addressed because it has been given a different name.\n\nFour features of compensation claims make cascades more likely:\n• prescribing is fragmented across GPs, specialists and emergency departments\n• pain, poor sleep and low mood are expected, so a drug cause is rarely raised\n• a new diagnosis can unlock treatment funding and entitlements\n• nobody is paid to subtract unless the insurer makes it someone's brief\n\nAustralian data puts adverse medicine events in more than 190,000 hospital admissions a year.\n\nFull article: link in the first comment.\n\n#Polypharmacy #InjuryManagement #WorkersCompensation #MedicationSafety"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "A side effect gets treated as a new condition, a second medicine is added, and then a third. On injury claims, that is how one medication becomes four, while the original cause is never addressed.\n\nHow to spot and stop a prescribing cascade: link in the first comment.\n\n#Polypharmacy #InjuryManagement #WorkersCompensation #MedicationSafety"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/prescribing-cascades-personal-injury-claims"
+    },
+    {
+      "date": "2026-11-20",
+      "post": "A9",
+      "brand": "IMM Academy",
+      "source": "academy:esketamine-ketamine",
+      "photo": "3873141",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-academy-esketamine-ketamine.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-academy-esketamine-ketamine.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Esketamine and subcutaneous ketamine are not the same treatment. One is an approved nasal spray with a strict protocol. The other is off-label, with a much weaker evidence base. Our 30-minute briefing shows injury management teams how to tell them apart and check a request against the protocol. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "Ketamine-based treatment for depression comes in two very different forms, and a claim file needs to know which one it is looking at.\n\nEsketamine (Spravato) is an approved nasal spray for treatment-resistant depression, with a strict protocol that makes funding decisions straightforward to test. Subcutaneous ketamine is a different, off-label treatment with a much weaker evidence base.\n\nEsketamine and Ketamine for Depression is a 30-minute briefing for case managers, IMAs, rehab providers and WHS officers. It teaches learners to:\n• tell the two treatments apart\n• check an esketamine request against the protocol\n• assess subcutaneous ketamine as a separate request\n\n30 minutes. 0.5 ANZIIF CIP points. $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Esketamine and subcutaneous ketamine are not the same treatment. One is an approved nasal spray with a strict protocol. The other is off-label, with a much weaker evidence base. Our 30-minute briefing shows injury management teams how to tell them apart and check a request against the protocol. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "first_comment": "Course details: https://academy.imedmanagement.com.au/courses/esketamine-ketamine"
+    },
+    {
+      "date": "2026-11-21",
+      "post": "IMM11",
+      "brand": "IMM",
+      "source": "imm:nsw-primary-psychological-injury-reforms-2026-injury-managers",
+      "photo": "18459248",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-21-imm-nsw-psych-reforms.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-21-imm-nsw-psych-reforms.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "NSW has changed how a primary psychological injury is compensated. For injuries first notified from 1 July 2026, a claim is only compensable if a relevant event caused the injury and employment is the main contributing factor.\n\nThe type of event now decides the pathway. Bullying, harassment and excessive work demands are relevant conduct claims, with a separate 42 day pathway and interim entitlements while the claim is decided.\n\nWhat the new rules mean for injury managers: link in the first comment."
+      },
+      "linkedin": {
+        "account": "71330183",
+        "commentary": "NSW has changed how a primary psychological injury is compensated, and the type of event behind the claim now decides how it is managed.\n\nFor a primary psychological injury first notified on or after 1 July 2026, compensation is only payable where a relevant event caused the injury, there is a real and direct connection between that event and employment, and employment is the main contributing factor.\n\nWhat injury managers need to know:\n• violence, criminal conduct, witnessing a traumatic incident, vicarious trauma or the death of a person in care follow the standard pathway, with provisional weekly payments within 7 days unless there is a reasonable excuse\n• bullying, sexual harassment, racial harassment and excessive work demands are relevant conduct claims, on a separate 42 day pathway\n• interim entitlement payments and up to $7,500 in treatment apply while a relevant conduct claim is decided\n• the work injury damages threshold rises to at least 25 per cent\n\nA claim is not compensable where the predominant significant cause was reasonable management action taken in a reasonable way. Secondary psychological injuries that follow a physical injury sit outside the new rules.\n\nFull article: link in the first comment.\n\n#WorkersCompensation #InjuryManagement #PsychologicalInjury #NSW"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "NSW has changed how a primary psychological injury is compensated. For injuries first notified from 1 July 2026, a claim is only compensable if a relevant event caused the injury and employment is the main contributing factor.\n\nThe type of event now decides the pathway. Bullying, harassment and excessive work demands are relevant conduct claims, with a separate 42 day pathway and interim entitlements while the claim is decided.\n\nWhat the new rules mean for injury managers: link in the first comment.\n\n#WorkersCompensation #InjuryManagement #PsychologicalInjury #NSW"
+      },
+      "first_comment": "Read the full article: https://imedmanagement.com.au/insights/nsw-primary-psychological-injury-reforms-2026-injury-managers"
+    },
+    {
+      "date": "2026-11-21",
+      "post": "A10",
+      "brand": "IMM Academy",
+      "source": "academy:mdma-psilocybin",
+      "photo": "9902264",
+      "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-21-academy-mdma-psilocybin.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-21-academy-mdma-psilocybin.jpg",
+      "facebook": {
+        "account": "106726314764969",
+        "caption": "Since 1 July 2023, authorised psychiatrists can prescribe MDMA for PTSD and psilocybin for treatment-resistant depression. Neither is an approved product, uptake is still small, and a course of treatment is costly and loosely defined. Our 30-minute briefing prepares injury management teams for the first request before it arrives. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment."
+      },
+      "linkedin": {
+        "account": "144056031",
+        "commentary": "The first funding request for psychedelic-assisted therapy may not have reached your desk yet. It is worth being ready before it does.\n\nSince 1 July 2023, authorised psychiatrists can prescribe MDMA for PTSD and psilocybin for treatment-resistant depression. Neither is an approved product, uptake is still small, and a course of treatment is costly and loosely defined.\n\nMDMA and Psilocybin: Psychedelic-Assisted Therapy is a 30-minute briefing for case managers, IMAs, rehab providers and WHS officers. It covers:\n• how each treatment is used and where the evidence stands\n• who can prescribe, and under what conditions\n• what to confirm before a request is funded\n\n30 minutes. 0.5 ANZIIF CIP points. $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "instagram": {
+        "account": "17841445514866994",
+        "caption": "Since 1 July 2023, authorised psychiatrists can prescribe MDMA for PTSD and psilocybin for treatment-resistant depression. Neither is an approved product, uptake is still small, and a course of treatment is costly and loosely defined. Our 30-minute briefing prepares injury management teams for the first request before it arrives. 0.5 ANZIIF CIP points, $150.\n\nDetails in the first comment.\n\n#MentalHealth #InjuryManagement #WorkersCompensation #ANZIIF"
+      },
+      "first_comment": "Course details: https://academy.imedmanagement.com.au/courses/mdma-psilocybin"
+    }
+  ],
+  "used_before_schedule": [
+    "imm:clause-8p-reasonable-and-necessary-test-nsw"
+  ]
 }
