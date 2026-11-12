@@ -133,5 +133,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-20-academy-esketamine-ketamine.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-20-academy-esketamine-ketamine.jpg"
+  },
+  {
+    "id": "2026-11-21-imm-nsw-psych-reforms",
+    "date": "2026-11-21",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-21-imm-nsw-psych-reforms.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-21-imm-nsw-psych-reforms.jpg"
+  },
+  {
+    "id": "2026-11-21-academy-mdma-psilocybin",
+    "date": "2026-11-21",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-21-academy-mdma-psilocybin.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-21-academy-mdma-psilocybin.jpg"
   }
 ]
