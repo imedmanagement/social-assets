@@ -147,5 +147,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-21-academy-mdma-psilocybin.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-21-academy-mdma-psilocybin.jpg"
+  },
+  {
+    "id": "2026-11-23-imm-pharmacy-reviews-ime",
+    "date": "2026-11-23",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-23-imm-pharmacy-reviews-ime.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-23-imm-pharmacy-reviews-ime.jpg"
+  },
+  {
+    "id": "2026-11-23-academy-medication-task-matrix",
+    "date": "2026-11-23",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-23-academy-medication-task-matrix.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-23-academy-medication-task-matrix.jpg"
   }
 ]
