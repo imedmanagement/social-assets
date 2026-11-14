@@ -1,0 +1,48 @@
+{
+  "week": "Mon 23 to Sat 28 November 2026",
+  "jobs": [
+    {
+      "id": "2026-11-23-imm-pharmacy-reviews-ime",
+      "date": "2026-11-23",
+      "brand": "imm",
+      "card": {
+        "photo": "pexels:6129034",
+        "pos": "50% 50%",
+        "eyebrow": "SIRA relevant services guidelines",
+        "headline": "Pharmacy reviews are *not IME services.*",
+        "sub": "SIRA lists medication review as a separate relevant service, with a separate rulebook.",
+        "stat": [
+          "Part 4",
+          "IME conduct rules do not apply to medication reviews"
+        ]
+      },
+      "story": {
+        "eyebrow": "New insight",
+        "line": "Read the full article on our website",
+        "line2": "imedmanagement.com.au/insights"
+      }
+    },
+    {
+      "id": "2026-11-23-academy-medication-task-matrix",
+      "date": "2026-11-23",
+      "brand": "academy",
+      "card": {
+        "photo": "pexels:33914927",
+        "fy": 0.5,
+        "eyebrow": "8-hour RTW course",
+        "headline": "Green, amber or red *for this shift?*",
+        "sub": "Rate medication impairment against task safety-criticality with the Medication-Task Matrix.",
+        "chips": [
+          "8 hours",
+          "ANZIIF CIP 8 pts",
+          "$550"
+        ]
+      },
+      "story": {
+        "eyebrow": "IMM Academy",
+        "line": "8 hours, 8 ANZIIF CIP points",
+        "line2": "academy.imedmanagement.com.au"
+      }
+    }
+  ]
+}
