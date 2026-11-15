@@ -43,6 +43,49 @@
         "line": "8 hours, 8 ANZIIF CIP points",
         "line2": "academy.imedmanagement.com.au"
       }
+    },
+    {
+      "id": "2026-11-24-imm-opioid-overdose-age",
+      "date": "2026-11-24",
+      "brand": "imm",
+      "card": {
+        "photo": "pexels:17891261",
+        "pos": "50% 50%",
+        "eyebrow": "Annual Overdose Report 2025",
+        "headline": "Overdose risk now peaks in *the claims age band.*",
+        "sub": "People aged 40 to 59 now account for more than half of unintentional overdose deaths.",
+        "stat": [
+          "305%",
+          "Rise in overdose deaths aged 50 to 59 since 2001"
+        ]
+      },
+      "story": {
+        "eyebrow": "New insight",
+        "line": "Read the full article on our website",
+        "line2": "imedmanagement.com.au/insights"
+      }
+    },
+    {
+      "id": "2026-11-24-academy-medication-history",
+      "date": "2026-11-24",
+      "brand": "academy",
+      "card": {
+        "photo": "pexels:8667958",
+        "fy": 0.5,
+        "eyebrow": "Medication Review in Personal Injury Schemes",
+        "headline": "Build a medication history *that stands up to scrutiny.*",
+        "sub": "Reconcile dispensing, prescription monitoring, prescriber letters, payment data and the claimant interview into one timeline.",
+        "chips": [
+          "8 hours",
+          "6 modules",
+          "$1,100"
+        ]
+      },
+      "story": {
+        "eyebrow": "IMM Academy",
+        "line": "8 hours, 6 modules",
+        "line2": "academy.imedmanagement.com.au"
+      }
     }
   ]
 }
