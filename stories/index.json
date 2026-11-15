@@ -161,5 +161,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-23-academy-medication-task-matrix.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-23-academy-medication-task-matrix.jpg"
+  },
+  {
+    "id": "2026-11-24-imm-opioid-overdose-age",
+    "date": "2026-11-24",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-24-imm-opioid-overdose-age.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-24-imm-opioid-overdose-age.jpg"
+  },
+  {
+    "id": "2026-11-24-academy-medication-history",
+    "date": "2026-11-24",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-24-academy-medication-history.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-24-academy-medication-history.jpg"
   }
 ]
