@@ -31,6 +31,9 @@ for (const p of posts) {
     for (const w of brand.forbidden_terms || []) if (t.toLowerCase().includes(w.toLowerCase())) bad(p, `${name} mentions "${w}"`);
   }
   if ((p.linkedin?.commentary || '').length > 3000) bad(p, 'LinkedIn over 3000 characters');
+  // LinkedIn's API treats these as formatting codes and silently cuts the post off at the first one (found 17 Nov 2026).
+  // Windsor escapes @ and # itself. Reword instead: use commas, "or", "sold as" in place of brackets.
+  if (!p.published && p.date >= '2026-11-18') { const m = (p.linkedin?.commentary || '').match(/[()\[\]{}<>|*_~\\]/g); if (m) bad(p, `LinkedIn text contains ${[...new Set(m)].join(' ')}: LinkedIn cuts the post off there. Reword without brackets or symbols`); }
   if ((p.instagram?.caption || '').length > 2200) bad(p, 'Instagram over 2200 characters');
   if (((p.instagram?.caption || '').match(/#/g) || []).length > 30) bad(p, 'more than 30 hashtags');
   if (DASH_RE.test(p.first_comment || '')) bad(p, 'first comment has an en or em dash');
