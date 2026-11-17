@@ -1,134 +1,177 @@
 {
-  "week": "Mon 23 to Sat 28 November 2026",
-  "jobs": [
-    {
-      "id": "2026-11-23-imm-pharmacy-reviews-ime",
-      "date": "2026-11-23",
-      "brand": "imm",
-      "card": {
-        "photo": "pexels:6129034",
-        "pos": "50% 50%",
-        "eyebrow": "SIRA relevant services guidelines",
-        "headline": "Pharmacy reviews are *not IME services.*",
-        "sub": "SIRA lists medication review as a separate relevant service, with a separate rulebook.",
-        "stat": [
-          "Part 4",
-          "IME conduct rules do not apply to medication reviews"
-        ]
-      },
-      "story": {
-        "eyebrow": "New insight",
-        "line": "Read the full article on our website",
-        "line2": "imedmanagement.com.au/insights"
-      }
-    },
-    {
-      "id": "2026-11-23-academy-medication-task-matrix",
-      "date": "2026-11-23",
-      "brand": "academy",
-      "card": {
-        "photo": "pexels:33914927",
-        "fy": 0.5,
-        "eyebrow": "8-hour RTW course",
-        "headline": "Green, amber or red *for this shift?*",
-        "sub": "Rate medication impairment against task safety-criticality with the Medication-Task Matrix.",
-        "chips": [
-          "8 hours",
-          "ANZIIF CIP 8 pts",
-          "$550"
-        ]
-      },
-      "story": {
-        "eyebrow": "IMM Academy",
-        "line": "8 hours, 8 ANZIIF CIP points",
-        "line2": "academy.imedmanagement.com.au"
-      }
-    },
-    {
-      "id": "2026-11-24-imm-opioid-overdose-age",
-      "date": "2026-11-24",
-      "brand": "imm",
-      "card": {
-        "photo": "pexels:17891261",
-        "pos": "50% 50%",
-        "eyebrow": "Annual Overdose Report 2025",
-        "headline": "Overdose risk now peaks in *the claims age band.*",
-        "sub": "People aged 40 to 59 now account for more than half of unintentional overdose deaths.",
-        "stat": [
-          "305%",
-          "Rise in overdose deaths aged 50 to 59 since 2001"
-        ]
-      },
-      "story": {
-        "eyebrow": "New insight",
-        "line": "Read the full article on our website",
-        "line2": "imedmanagement.com.au/insights"
-      }
-    },
-    {
-      "id": "2026-11-24-academy-medication-history",
-      "date": "2026-11-24",
-      "brand": "academy",
-      "card": {
-        "photo": "pexels:15114245",
-        "fy": 0.5,
-        "eyebrow": "Medication Review in Personal Injury Schemes",
-        "headline": "Build a medication history *that stands up to scrutiny.*",
-        "sub": "Reconcile dispensing, prescription monitoring, prescriber letters, payment data and the claimant interview into one timeline.",
-        "chips": [
-          "8 hours",
-          "6 modules",
-          "$1,100"
-        ]
-      },
-      "story": {
-        "eyebrow": "IMM Academy",
-        "line": "8 hours, 6 modules",
-        "line2": "academy.imedmanagement.com.au"
-      }
-    },
-    {
-      "id": "2026-11-25-imm-side-effect-lookalikes",
-      "date": "2026-11-25",
-      "brand": "imm",
-      "card": {
-        "photo": "pexels:9902264",
-        "pos": "50% 50%",
-        "eyebrow": "Claims manager reference",
-        "headline": "Side effect *or new diagnosis?*",
-        "sub": "The look-alike symptoms of common injury medications, and what to check first.",
-        "stat": [
-          "$288,542",
-          "Average NSW secondary psychological injury claim"
-        ]
-      },
-      "story": {
-        "eyebrow": "New insight",
-        "line": "Read the full article on our website",
-        "line2": "imedmanagement.com.au/insights"
-      }
-    },
-    {
-      "id": "2026-11-25-academy-taking-action",
-      "date": "2026-11-25",
-      "brand": "academy",
-      "card": {
-        "photo": "pexels:9034869",
-        "fy": 0.5,
-        "eyebrow": "Medication Risk in Personal Injury Claims",
-        "headline": "Spotted a medication concern? *Know the next step.*",
-        "sub": "Proportionate actions, structured doctor letters and neutral IME medication questions.",
-        "chips": [
-          "8 hours",
-          "ANZIIF CIP 8 pts",
-          "$550"
-        ]
-      },
-      "story": {
-        "eyebrow": "IMM Academy",
-        "line": "Module 6: Taking Action",
-        "line2": "academy.imedmanagement.com.au"
-      }
-    }
-  ]
+ "week": "Mon 23 to Sat 28 November 2026",
+ "jobs": [
+  {
+   "id": "2026-11-23-imm-pharmacy-reviews-ime",
+   "date": "2026-11-23",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:6129034",
+    "pos": "50% 50%",
+    "eyebrow": "SIRA relevant services guidelines",
+    "headline": "Pharmacy reviews are *not IME services.*",
+    "sub": "SIRA lists medication review as a separate relevant service, with a separate rulebook.",
+    "stat": [
+     "Part 4",
+     "IME conduct rules do not apply to medication reviews"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-23-academy-medication-task-matrix",
+   "date": "2026-11-23",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:33914927",
+    "fy": 0.5,
+    "eyebrow": "8-hour RTW course",
+    "headline": "Green, amber or red *for this shift?*",
+    "sub": "Rate medication impairment against task safety-criticality with the Medication-Task Matrix.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "8 hours, 8 ANZIIF CIP points",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-24-imm-opioid-overdose-age",
+   "date": "2026-11-24",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:17891261",
+    "pos": "50% 50%",
+    "eyebrow": "Annual Overdose Report 2025",
+    "headline": "Overdose risk now peaks in *the claims age band.*",
+    "sub": "People aged 40 to 59 now account for more than half of unintentional overdose deaths.",
+    "stat": [
+     "305%",
+     "Rise in overdose deaths aged 50 to 59 since 2001"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-24-academy-medication-history",
+   "date": "2026-11-24",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:15114245",
+    "fy": 0.5,
+    "eyebrow": "Medication Review in Personal Injury Schemes",
+    "headline": "Build a medication history *that stands up to scrutiny.*",
+    "sub": "Reconcile dispensing, prescription monitoring, prescriber letters, payment data and the claimant interview into one timeline.",
+    "chips": [
+     "8 hours",
+     "6 modules",
+     "$1,100"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "8 hours, 6 modules",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-25-imm-side-effect-lookalikes",
+   "date": "2026-11-25",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:9902264",
+    "pos": "50% 50%",
+    "eyebrow": "Claims manager reference",
+    "headline": "Side effect *or new diagnosis?*",
+    "sub": "The look-alike symptoms of common injury medications, and what to check first.",
+    "stat": [
+     "$288,542",
+     "Average NSW secondary psychological injury claim"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-25-academy-taking-action",
+   "date": "2026-11-25",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:9034869",
+    "fy": 0.5,
+    "eyebrow": "Medication Risk in Personal Injury Claims",
+    "headline": "Spotted a medication concern? *Know the next step.*",
+    "sub": "Proportionate actions, structured doctor letters and neutral IME medication questions.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Module 6: Taking Action",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  },
+  {
+   "id": "2026-11-26-imm-sira-medical-guide",
+   "date": "2026-11-26",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:5407219",
+    "pos": "50% 50%",
+    "eyebrow": "SIRA workers compensation medical guide",
+    "headline": "The benchmark for *medical management on a claim.*",
+    "sub": "Reasonably necessary treatment, PBS-first prescribing and certificates of capacity, set out for treating doctors.",
+    "stat": [
+     "28 days",
+     "Longest certificate period without clinical reasoning"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-26-academy-pilot-cohort",
+   "date": "2026-11-26",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:15141543",
+    "fy": 0.5,
+    "eyebrow": "For claims and RTW teams",
+    "headline": "Start with five learners, *not a whole licence.*",
+    "sub": "A 5-learner pilot cohort, credited in full against a team or organisation licence within 60 days.",
+    "chips": [
+     "5 learners",
+     "$275 per learner",
+     "ANZIIF CIP 8 pts"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Pilot cohort: 5 learners",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  }
+ ]
 }
