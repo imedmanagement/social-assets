@@ -172,6 +172,49 @@
     "line": "Pilot cohort: 5 learners",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-11-27-imm-benzo-anxiety",
+   "date": "2026-11-27",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:4506242",
+    "pos": "50% 50%",
+    "eyebrow": "Anxiety medication evidence",
+    "headline": "A short-term bridge *that often becomes long-term.*",
+    "sub": "Guidelines position benzodiazepines for acute anxiety. Dependence can develop within weeks of regular use.",
+    "stat": [
+     "3 classes",
+     "Main medication classes prescribed for GAD in Australia"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-27-academy-recognising-impairment",
+   "date": "2026-11-27",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:32141074",
+    "fy": 0.5,
+    "eyebrow": "8-hour RTW course",
+    "headline": "Respond to impairment *without diagnosing or accusing.*",
+    "sub": "Recognise the indicators, consider other causes and respond using the SAFE protocol.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "6 modules, 8 ANZIIF CIP points",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
