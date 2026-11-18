@@ -203,5 +203,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-26-academy-pilot-cohort.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-26-academy-pilot-cohort.jpg"
+  },
+  {
+    "id": "2026-11-27-imm-benzo-anxiety",
+    "date": "2026-11-27",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-27-imm-benzo-anxiety.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-27-imm-benzo-anxiety.jpg"
+  },
+  {
+    "id": "2026-11-27-academy-recognising-impairment",
+    "date": "2026-11-27",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-27-academy-recognising-impairment.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-27-academy-recognising-impairment.jpg"
   }
 ]
