@@ -215,6 +215,49 @@
     "line": "6 modules, 8 ANZIIF CIP points",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-11-28-imm-ppi-long-term",
+   "date": "2026-11-28",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:5407205",
+    "pos": "50% 50%",
+    "eyebrow": "Long-term PPI use",
+    "headline": "The stomach protector that *outlives the NSAID.*",
+    "sub": "Long-term PPI use can add low magnesium, B12 deficiency and fracture risk to a claim.",
+    "stat": [
+     "13 to 25%",
+     "Chronic PPI users who develop low magnesium"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-28-academy-independent-reviewer",
+   "date": "2026-11-28",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8667958",
+    "fy": 0.5,
+    "eyebrow": "Medication Review in Personal Injury Schemes",
+    "headline": "Independent reviewer, *not treating pharmacist.*",
+    "sub": "Scope, consent, privacy and conflicts of interest for pharmacists reviewing medication for insurers.",
+    "chips": [
+     "8 hours",
+     "6 modules",
+     "$1,100"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Module 2: Role, Ethics and Law",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
