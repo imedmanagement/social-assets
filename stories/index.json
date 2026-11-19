@@ -217,5 +217,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-27-academy-recognising-impairment.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-27-academy-recognising-impairment.jpg"
+  },
+  {
+    "id": "2026-11-28-imm-ppi-long-term",
+    "date": "2026-11-28",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-28-imm-ppi-long-term.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-28-imm-ppi-long-term.jpg"
+  },
+  {
+    "id": "2026-11-28-academy-independent-reviewer",
+    "date": "2026-11-28",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-28-academy-independent-reviewer.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-28-academy-independent-reviewer.jpg"
   }
 ]
