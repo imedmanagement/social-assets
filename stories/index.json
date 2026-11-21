@@ -231,5 +231,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-28-academy-independent-reviewer.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-28-academy-independent-reviewer.jpg"
+  },
+  {
+    "id": "2026-11-30-imm-claim-form",
+    "date": "2026-11-30",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-30-imm-claim-form.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-30-imm-claim-form.jpg"
+  },
+  {
+    "id": "2026-11-30-academy-trace-method",
+    "date": "2026-11-30",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-11-30-academy-trace-method.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-11-30-academy-trace-method.jpg"
   }
 ]
