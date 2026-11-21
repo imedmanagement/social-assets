@@ -1,0 +1,48 @@
+{
+ "week": "Mon 30 November to Sat 5 December 2026",
+ "jobs": [
+  {
+   "id": "2026-11-30-imm-claim-form",
+   "date": "2026-11-30",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:8376289",
+    "pos": "50% 50%",
+    "eyebrow": "SIRA workers injury claim form",
+    "headline": "Check the claim form *before the clock starts.*",
+    "sub": "From 1 July 2026, physical and psychological injury sit in separate sections.",
+    "stat": [
+     "7 days",
+     "For the employer to pass the form to the insurer"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-11-30-academy-trace-method",
+   "date": "2026-11-30",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:18999456",
+    "fy": 0.5,
+    "eyebrow": "Medication Risk in Personal Injury Claims",
+    "headline": "Medication or condition? *Characterise the concern.*",
+    "sub": "Use TRACE to set one of four concern levels: Routine, Monitor, Review or Urgent.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Module 4: Medication or Condition?",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  }
+ ]
+}
