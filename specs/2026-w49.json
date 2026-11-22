@@ -43,6 +43,49 @@
     "line": "Module 4: Medication or Condition?",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-12-01-imm-cannabis-exclusion",
+   "date": "2026-12-01",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:9259854",
+    "pos": "50% 50%",
+    "eyebrow": "NSW medicinal cannabis",
+    "headline": "No exclusion, *no regulatory shortcut.*",
+    "sub": "Medicinal cannabis reverts to the reasonable and necessary test applied to every other treatment.",
+    "stat": [
+     "Same test",
+     "Reasonable and necessary, as for every other treatment"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-12-01-academy-self-insurers",
+   "date": "2026-12-01",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8370424",
+    "fy": 0.5,
+    "eyebrow": "For self-insurers and Comcare licensees",
+    "headline": "One standard for *every medication decision.*",
+    "sub": "Completion reports you can show your regulator, with quarterly audit reports from 50 learners.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "50+: $440"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Completion reports for your regulator",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
