@@ -86,6 +86,49 @@
     "line": "Completion reports for your regulator",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-12-02-imm-acute-plans",
+   "date": "2026-12-02",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:8376190",
+    "pos": "50% 50%",
+    "eyebrow": "The prescribing cascade",
+    "headline": "When acute plans *outlive the acute injury.*",
+    "sub": "Acute medicines have short intended lifespans, but plans rarely name a stop date.",
+    "stat": [
+     "1 in 5",
+     "New back and neck claims dispensed an opioid within 90 days"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-12-02-academy-rtw-plan",
+   "date": "2026-12-02",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:12131153",
+    "fy": 0.5,
+    "eyebrow": "8-hour RTW course",
+    "headline": "Build medication *into the RTW plan.*",
+    "sub": "A five-part medication section, function-focused questions for doctors and a confidential declaration process.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Five-part medication section for RTW",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
