@@ -273,5 +273,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-02-academy-rtw-plan.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-02-academy-rtw-plan.jpg"
+  },
+  {
+    "id": "2026-12-03-imm-omedd-calculator",
+    "date": "2026-12-03",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-03-imm-omedd-calculator.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-03-imm-omedd-calculator.jpg"
+  },
+  {
+    "id": "2026-12-03-academy-insurer-question",
+    "date": "2026-12-03",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-03-academy-insurer-question.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-03-academy-insurer-question.jpg"
   }
 ]
