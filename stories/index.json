@@ -287,5 +287,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-03-academy-insurer-question.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-03-academy-insurer-question.jpg"
+  },
+  {
+    "id": "2026-12-04-imm-decision-notice",
+    "date": "2026-12-04",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-04-imm-decision-notice.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-04-imm-decision-notice.jpg"
+  },
+  {
+    "id": "2026-12-04-academy-esketamine-protocol",
+    "date": "2026-12-04",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-04-academy-esketamine-protocol.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-04-academy-esketamine-protocol.jpg"
   }
 ]
