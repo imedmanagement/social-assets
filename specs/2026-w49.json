@@ -172,6 +172,49 @@
     "line": "Module 3: Answering the Insurer's Question",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-12-04-imm-decision-notice",
+   "date": "2026-12-04",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:30893737",
+    "pos": "50% 50%",
+    "eyebrow": "SIRA decision notice summary",
+    "headline": "A decision that stands starts *with the notice.*",
+    "sub": "Required whenever a decision disputes liability or discontinues or reduces weekly payments.",
+    "stat": [
+     "1 July 2019",
+     "Required on section 78 decision notices since this date"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-12-04-academy-esketamine-protocol",
+   "date": "2026-12-04",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:15940010",
+    "fy": 0.5,
+    "eyebrow": "30-minute treatment briefing",
+    "headline": "An esketamine request? *Test it against the protocol.*",
+    "sub": "A strict protocol makes funding decisions for this approved nasal spray straightforward to test.",
+    "chips": [
+     "30 minutes",
+     "ANZIIF CIP 0.5 pts",
+     "$150"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Check the request against the protocol",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
