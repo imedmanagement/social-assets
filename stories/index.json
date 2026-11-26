@@ -301,5 +301,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-04-academy-esketamine-protocol.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-04-academy-esketamine-protocol.jpg"
+  },
+  {
+    "id": "2026-12-05-imm-medication-errors",
+    "date": "2026-12-05",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-05-imm-medication-errors.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-05-imm-medication-errors.jpg"
+  },
+  {
+    "id": "2026-12-05-academy-right-information",
+    "date": "2026-12-05",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-05-academy-right-information.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-05-academy-right-information.jpg"
   }
 ]
