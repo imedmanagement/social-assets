@@ -215,6 +215,49 @@
     "line": "Check the request against the protocol",
     "line2": "academy.imedmanagement.com.au"
    }
+  },
+  {
+   "id": "2026-12-05-imm-medication-errors",
+   "date": "2026-12-05",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:8296983",
+    "pos": "50% 50%",
+    "eyebrow": "Medication errors",
+    "headline": "Prescribing or dispensing? *Find where the error began.*",
+    "sub": "The origin of a medication error shapes liability and any potential recovery.",
+    "stat": [
+     "4 stages",
+     "where a medication error can occur, from prescribing to adherence"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-12-05-academy-right-information",
+   "date": "2026-12-05",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:3987020",
+    "fy": 0.5,
+    "eyebrow": "Medication Risk in Personal Injury Claims",
+    "headline": "Six sources of medication information. *Each misses something.*",
+    "sub": "Module 5 covers where to look, the 8 red flags and how to request records.",
+    "chips": [
+     "8 hours",
+     "ANZIIF CIP 8 pts",
+     "$550"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Six sources, eight red flags",
+    "line2": "academy.imedmanagement.com.au"
+   }
   }
  ]
 }
