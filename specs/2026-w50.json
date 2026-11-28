@@ -1,0 +1,48 @@
+{
+ "week": "Mon 7 December to Sat 12 December 2026",
+ "jobs": [
+  {
+   "id": "2026-12-07-imm-weekly-payments",
+   "date": "2026-12-07",
+   "brand": "imm",
+   "card": {
+    "photo": "pexels:30893737",
+    "pos": "50% 50%",
+    "eyebrow": "Weekly payments in NSW",
+    "headline": "Weekly payments are not fixed. *Know what moves them.*",
+    "sub": "PIAWE, work capacity and time on the claim all shape the entitlement.",
+    "stat": [
+     "7 days",
+     "to start provisional weekly payments after notification of injury"
+    ]
+   },
+   "story": {
+    "eyebrow": "New insight",
+    "line": "Read the full article on our website",
+    "line2": "imedmanagement.com.au/insights"
+   }
+  },
+  {
+   "id": "2026-12-07-academy-cannabis-product",
+   "date": "2026-12-07",
+   "brand": "academy",
+   "card": {
+    "photo": "pexels:8139128",
+    "fy": 0.5,
+    "eyebrow": "30-minute treatment briefing",
+    "headline": "Approve the product, *not the whole class.*",
+    "sub": "Almost every medicinal cannabis product is unapproved. Five levers help insurers manage it.",
+    "chips": [
+     "30 minutes",
+     "ANZIIF CIP 0.5 pts",
+     "$150"
+    ]
+   },
+   "story": {
+    "eyebrow": "IMM Academy",
+    "line": "Five levers, light-touch to firm",
+    "line2": "academy.imedmanagement.com.au"
+   }
+  }
+ ]
+}
