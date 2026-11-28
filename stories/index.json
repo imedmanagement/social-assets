@@ -315,5 +315,19 @@
     "brand": "academy",
     "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-05-academy-right-information.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-05-academy-right-information.jpg"
+  },
+  {
+    "id": "2026-12-07-imm-weekly-payments",
+    "date": "2026-12-07",
+    "brand": "imm",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-07-imm-weekly-payments.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-07-imm-weekly-payments.jpg"
+  },
+  {
+    "id": "2026-12-07-academy-cannabis-product",
+    "date": "2026-12-07",
+    "brand": "academy",
+    "card": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/cards/2026-12-07-academy-cannabis-product.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/social-assets/main/stories/2026-12-07-academy-cannabis-product.jpg"
   }
 ]
